@@ -1,5 +1,5 @@
 Ratified unanimously by members represented at the General Meeting of
-September 13, 2018
+January 10, 2019
 
           THE CONSTITUTION OF THE GLENSIDE COLOR COMPUTER CLUB, INC.
 Preamble:
@@ -90,22 +90,26 @@ The membership of the Glenside Color Computer Club shall consist of general,
 contributing and honorary members. The qualifications and rights of such
 members shall be set forth in the Bylaws.
 
-                            Article VIII - Officers
+                            Article VIII - Board of Directors
 
-The officers of the corporation shall consist of the elected officers and the 
-Directors of the Board.
+The Board of Directors of the corporation shall consist of the elected officers
+and the appointed Directors.
 
-Section 1 - The elected officers shall be the President, Vice President, 
-            Treasurer and Secretary as may be authorized in the Bylaws. Such
-            officers may be elected or appointed as set forth in the Bylaws;
-            their terms and duties shall be set forth in the Bylaws. The
-            President shall chair all meetings of the Board.
+Section 1 - The elected officers shall be the President, Vice President,
+            Treasurer and Secretary. The qualifications, method of election,
+            terms of office, and duties of these officers shall be set forth
+            in the Bylaws.
 
-Section 2 - The Directors of the Board shall consist of the Director of Demos
-            and Reviews, Director of Special Events, Director of
-            Communications, Disk of the Month Director, Software Librarian,
-            Sergeant at Arms, and Club Newsletter Editor. The Directors of
-            the Board shall be appointed as provided in the Bylaws.
+Section 2 - The appointed Directorships shall consist of such positions as
+            the current president deems necessary and vital for the successful
+            functioning of the corporation. Examples might be Director of
+            Demos and Reviews, Director of Special Events, Director of
+            Membership, Director of Communications, Software Librarian, and
+            Club Newsletter Editor. There must be a minimum of two appointed
+            Directors. The qualifications, appointment process, terms of
+            office, and duties of these appointed Directors shall be set
+            forth in the Bylaws.
+
 
               BYLAWS OF THE GLENSIDE COLOR COMPUTER CLUB, INC.
 
