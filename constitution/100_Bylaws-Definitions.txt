@@ -1,4 +1,4 @@
-Definitions:
+Article II - Definitions
 
    The term "quorum" shall mean the required number and composition of
    members present at a meeting to make the meeting valid, as follows:
@@ -16,7 +16,7 @@ Definitions:
      that have voted, unless otherwise specified. 
 
    The corporate publication shall hereafter be referred to as the club
-   newsletter, and shall initially be the CoCo~123.
+   newsletter, and shall initially be the CoCo 1-2-3.
 
    The term "Community" shall mean the community of Tandy Color Computer (and
    related computer) users. Related computers include any computer running
