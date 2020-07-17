@@ -40,8 +40,8 @@ Section 1 - by a corporation exempt from federal income tax under
             Section 501(c)(3) of the Internal Revenue Code of 1954 or the
             corresponding provision of any subsequent federal internal revenue
             law, or;
-Section 2 - by a corporation contributions to which are deductible under
-            Section 170(c) (2) of the Internal Revenue Code of 1954 or the
+Section 2 - by a corporation, contributions to which are deductible under
+            Section 170(c)(2) of the Internal Revenue Code of 1954 or the
             corresponding provision of any subsequent federal internal revenue
             law.
 
@@ -85,7 +85,7 @@ provided in the corporation's Bylaws.
                             Article VII - Membership
 
 The membership of the Glenside Color Computer Club shall consist of general, 
-contributing and honorary members. The qualifications and rights of such members 
+contributing, and honorary members. The qualifications and rights of such members 
 shall be set forth in the Bylaws. 
 
                             Article VIII - Board of Directors
@@ -118,8 +118,8 @@ September 13, 2018
 
               BYLAWS OF THE GLENSIDE COLOR COMPUTER CLUB, INC.
 
-The mailing address of the Glenside Color Computer Club (GCCC) shall be the
-address of the President.
+   The mailing address of the Glenside Color Computer Club (GCCC) shall be the
+   address of the President.
 
 Definitions:
 
@@ -148,56 +148,56 @@ Definitions:
 
                Amendments to the Constitution and Bylaws
 
-Any individual Board of Directors member in good standing may, at any time, move
-to amend the Constitution by delivering a written "motion to amend" to the 
-Secretary.
+   Any individual Board of Directors member in good standing may, at any time, move
+   to amend the Constitution by delivering a written "motion to amend" to the 
+   Secretary.
 
-A motion to amend the Constitution shall be signed by the member making the 
-motion and by at least two seconders, both of whom shall be Contributing Members 
-of the GCCC in good standing.
+   A motion to amend the Constitution shall be signed by the member making the 
+   motion and by at least two seconders, both of whom shall be Contributing Members 
+   of the GCCC in good standing.
 
-Upon receipt of a motion to amend the Constitution, the Secretary shall cause to 
-be published in the Newsletter a copy of the motion, and cause a copy of the 
-motion to be delivered to each member of the Board of Directors.
+   Upon receipt of a motion to amend the Constitution, the Secretary shall cause to 
+   be published in the Newsletter a copy of the motion, and cause a copy of the 
+   motion to be delivered to each member of the Board of Directors.
 
-Any motion to amend the Constitution shall be dealt with at the General Meeting 
-of the GCCC following delivery of the periodical in which the motion to amend is 
-published. At such meeting, the motion may be passed as delivered, amended, or 
-tabled. No further notice need be given before the consideration of any 
-amendment to the motion.
+   Any motion to amend the Constitution shall be dealt with at the General Meeting 
+   of the GCCC following delivery of the periodical in which the motion to amend is 
+   published. At such meeting, the motion may be passed as delivered, amended, or 
+   tabled. No further notice need be given before the consideration of any 
+   amendment to the motion.
 
 
 
                                    Page 3
            ----------------------- Page 4-----------------------
-A tabled motion to amend the Constitution may be dealt with at any future 
-General Meeting. No further notice need be given before such additional 
-consideration of any amendment to the motion. Any motion that has been tabled 
-for more than six months without discussion shall be considered to have failed. 
+   A tabled motion to amend the Constitution may be dealt with at any future 
+   General Meeting. No further notice need be given before such additional 
+   consideration of any amendment to the motion. Any motion that has been tabled 
+   for more than six months without discussion shall be considered to have failed.
 
-No amendment to the Constitution shall be effective unless it is passed by a 
-two-thirds majority vote of the quorum at a General Meeting of the GCCC. 
+   No amendment to the Constitution shall be effective unless it is passed by a 
+   two-thirds majority vote of the quorum at a General Meeting of the GCCC. 
 
-The Bylaws passed pursuant to this Constitution may be amended by a simple 
-majority vote of the quorum at a General Meeting and no notice need be given of 
-a motion to amend the Bylaws; however, a motion to amend the Bylaws must be 
-delivered in writing. 
+   The Bylaws passed pursuant to this Constitution may be amended by a simple 
+   majority vote of the quorum at a General Meeting and no notice need be given of 
+   a motion to amend the Bylaws; however, a motion to amend the Bylaws must be 
+   delivered in writing. 
 
-As with the Constitution, a motion to amend the bylaws may be tabled for up to 
-six months. A motion that is tabled for more than six months without discussion 
-is considered to have failed. 
+   As with the Constitution, a motion to amend the bylaws may be tabled for up to 
+   six months. A motion that is tabled for more than six months without discussion 
+   is considered to have failed. 
 
                              Membership
 
 Membership Categories
 
-  The membership of the GCCC shall consist of the following categories:
+   The membership of the GCCC shall consist of the following categories:
 
-      General Membership
+     General Membership
 
-      Contributing Membership
+     Contributing Membership
 
-      Honorary Membership
+     Honorary Membership
 
    General Membership is open to anyone in the Community.
 
@@ -270,20 +270,20 @@ Membership suspension and cancellation
 
 GCCC Executive Officers
 
-     The elected officers shall consist of:
+   The elected officers shall consist of:
 
-       President, Vice President, Secretary and Treasurer.
+     President, Vice President, Secretary and Treasurer.
 
-     The term of office for the elected offices shall be one (1) year.
+   The term of office for the elected offices shall be one (1) year.
 
-     The Board of Directors shall consist of:
+   The Board of Directors shall consist of:
 
-       Director of Demos and Reviews, Director of Special Events, Director
-       of Communications, Disk of the Month Director, Software Librarian,
-       Sergeant at Arms and Club Newsletter Editor.
+     Director of Demos and Reviews, Director of Special Events, Director
+     of Communications, Disk of the Month Director, Software Librarian,
+     Sergeant at Arms and Club Newsletter Editor.
                                    Page 5
            ----------------------- Page 6-----------------------
-     The term of office for the Board of Directors shall be infinite.
+   The term of office for the Board of Directors shall be infinite.
 
 Terms, Duties and Responsibilities of club officers
 
