@@ -113,8 +113,8 @@ Section 2 - The appointed Directorships shall consist of such positions as
 
                                     Page 2
             ----------------------- Page 3-----------------------
-Ratified unanimously by members represented at the General Meeting of
-September 13, 2018
+Ratified by vote of members represented at the General Meeting of 
+xxxxxxx xx, 2020
 
               BYLAWS OF THE GLENSIDE COLOR COMPUTER CLUB, INC.
 
@@ -126,17 +126,17 @@ Definitions:
    The term "quorum" shall mean the required number and composition of
    members present at a meeting to make the meeting valid, as follows:
 
-     For General Meetings of the GCCC, the Chair as defined in Article VIII,
-     Section 1, at least two members of the Board of Directors, and such
-     General Members as are present (at least 3), shall constitute a quorum.
+     For General Meetings of the GCCC, the Chair (as defined under “Conduct 
+     of General Meetings” below), at least two other members of the Board of 
+     Directors, and such Contributing Members as are present (at least 
+     three), shall constitute a quorum.
 
-     For Board of Directors meetings, the President or Vice President, and
-     a majority of Board of Directors members shall constitute a quorum.
+     For Board of Directors (BOD) Meetings, the President or Vice President, 
+     and a majority of BOD members shall constitute a quorum. 
 
-   The term "majority" in regards to voting shall mean:
-
-     For all meetings of the GCCC, greater than 50% (fifty percent) of the
-     members of the quorum that have voted, unless otherwise specified.
+     The term "majority" in regards to voting shall mean, for all meetings of
+     the GCCC, greater than 50% (fifty percent) of the members of the quorum 
+     that have voted, unless otherwise specified. 
 
    The corporate publication shall hereafter be referred to as the club
    newsletter, and shall initially be the CoCo~123.
@@ -145,6 +145,8 @@ Definitions:
    related computer) users. Related computers include any computer running
    the OS-9 or OS-9000 operating systems as well as any other computer deemed
    appropriate by the membership.
+
+   The pronouns he/his/him can replaced by she/her/her when appropriate. 
 
                Amendments to the Constitution and Bylaws
 
