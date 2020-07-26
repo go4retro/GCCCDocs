@@ -260,6 +260,79 @@ Section 3 – Actions Taken at General Meetings
   normally vote except in the event of a tie.  This will help to preserve the 
   impartiality of the Chair.
 
+Article VII – Meetings of the Board of Directors
+Section 1 – Date, Time, Location
+
+	Meetings shall be held on an as-needed basis, but must be held at least 
+  semiannually.  Meeting dates, times, and locations are designated by the 
+  president.
+
+Section 2 – Conduct of BOD Meetings
+
+	The President shall chair meetings if he is present, otherwise the 
+  Vice-President takes that role.
+
+	No actions may be taken by the Board of Directors unless a quorum is present.
+	A motion is decided by majority vote of BOD members.  BOD members not present 
+  may cast their votes by proxy.  The Chair should refrain from voting except in
+  case of a tie.
+
+	All meetings shall have minutes taken by the Secretary or a designated 
+  substitute.
+
+	Only BOD members may attend BOD meetings unless by invitation of a BOD member.
+	BOD meetings shall be held informally, and need not follow strict 
+  parliamentary procedures.
+
+Section 3 – Special Board of Directors Meetings
+
+	If the President deems immediate action to be necessary he may call a Special 
+  BOD Meeting.  If it is possible to resolve the issue at a regular BOD meeting,
+  a special meeting is not appropriate.
+
+	A Special BOD Meeting may be conducted using a telephone conference call or an
+  electronic or internet conference system.
+
+	Minutes of a Special BOD Meeting are not required, but a record of decisions 
+  must be kept.
+
+	Decisions made at a Special BOD Meeting are subject to review at subsequent 
+  Regular BOD Meetings.
+
+Section 4 – Responsibilities and Powers of the Board of Directors
+
+	The Purpose of the BOD shall be to oversee the general operations of the GCCC,
+  and to set policy. 
+
+	The BOD shall review all appointed Directorships annually and at other times 
+  as it may see fit, and, if necessary, reassign such positions by vote.  The 
+  President may nominate Members for appointed positions; these nominations must
+  be approved by a majority vote at a BOD Meeting.
+
+	The BOD shall authorize all expenditures by the GCCC except as otherwise noted
+  in the Constitution or Bylaws.
+ 
+	The BOD may, at its discretion, support financially or by other means, the 
+  activities of other groups which promote personal computers in accordance with
+  the stated purpose of the GCCC. 
+
+	The BOD may contract for the use of facilities and services as it sees fit to 
+  further the stated purposes of the GCCC.
+ 
+	BOD decisions are made by majority vote at a BOD Meeting. The Chair may, if 
+  necessary, cast a tie-breaking vote.
+ 
+	If a club elected officer or appointed Director is clearly shown to be 
+  unwilling, unable, or incapable of performing the duties of the office, the 
+  BOD may tell that person to step down.
+
+	If an elected President is asked to step down, the Vice President shall assume
+  the President’s post until the next regular election, or the BOD may instead 
+  designate another substitute for that period of time. 
+	If an elected officer other than the President is unable to complete his term,
+  a replacement shall be chosen by the BOD.  This appointment will last until
+  the next regular election.
+
 GCCC Executive Officers
 
    The elected officers shall consist of:
@@ -757,54 +830,6 @@ GCCC BBSs and Web Sites
 
    Each system operator must police his or her BBS or Web Site, including
    defining a code of conduct.
-
-BOARD OF DIRECTORS Meetings
-
-   General
-
-     Meetings shall be held on an as-needed basis, but must be held at least
-     quarterly. Meetings time and place are designated by the President.
-
-     No actions shall be taken by the Board of Directors unless a quorum is
-     assembled.
-
-     Board of Directors meetings shall be held informally, and need not
-     follow strict parliamentary procedure.
-
-     All meetings shall have minutes taken and passed to the Secretary, as
-     specified in Article IX, Section 1.
-
-     Only Board of Directors members may attend Board of Directors meetings,
-     except as specified in the Bylaws, or by invitation of any Board of
-     Directors member.
-
-   Special Board of Directors Meetings
-
-     If the President deems immediate action necessary, a Special Board of
-     Directors meeting may be called. If it is possible to resolve the issue
-     at a regular Board of Directors meeting, a Special Board of Directors
-     meeting is inappropriate.
-
-     A Special Board of Directors Meeting may be conducted using:
-
-       Telephone conference call; Electronic conference
-
-       Decisions made at Special Board of Directors meetings are subject to
-       review at following regular Board of Directors meetings.
-
-       Minutes are not necessary, but a record of decisions made must be kept.
-
-   Voting
-
-     A motion is decided by majority vote of Board of Directors members. All
-     Board of Directors members get one vote.
-
-     The President may cast a tie-breaking vote when necessary.
-
-     If the President is not present and there is a tie, the Vice President
-     may cast a tie-breaking vote.
-
-     Board of Directors members not present may have their vote cast by proxy.
 
 Article I
 Article II, Section 5
