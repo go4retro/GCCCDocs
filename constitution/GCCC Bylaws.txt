@@ -106,29 +106,29 @@ Section 1 – Categories of Membership
  
 Section 2 – Conduct of Members
 
-	In rare instances it might be necessary for the Board of Directors to consider
-  disciplinary action against a member.  Causes for such consideration would be:
+   In rare instances it might be necessary for the Board of Directors to consider
+   disciplinary action against a member.  Causes for such consideration would be:
 
-	  Software piracy
+     Software piracy
 
-	  Copyright or patent infringement
+     Copyright or patent infringement
 
-	  Abuse of club property, club members, or any BBS
+     Abuse of club property, club members, or any BBS
     
-	  Theft
+     Theft
 
-	  Conduct deemed sufficiently inappropriate by the Board of Directors
+     Conduct deemed sufficiently inappropriate by the Board of Directors
 
-  The responses available to the BOD include membership suspension or 
-  cancellation.  A member whose membership is suspended is still a member of the
-  GCCC, but for a period of time as determined by the Board of Directors is 
-  deemed to be not in good standing and may not attend any GCCC functions.  
-  However, such a member will still receive the club newsletter and relevant 
-  correspondence.  A member whose membership is cancelled cannot again become a
-  member of the GCCC, and may not attend any GCCC functions.  A membership may
-  be cancelled only by a majority vote at a Board of Directors meeting.  The 
-  member is entitled to present a defense at this meeting and should be notified
-  30 days prior to said meeting.
+   The responses available to the BOD include membership suspension or 
+   cancellation.  A member whose membership is suspended is still a member of the
+   GCCC, but for a period of time as determined by the Board of Directors is 
+   deemed to be not in good standing and may not attend any GCCC functions.  
+   However, such a member will still receive the club newsletter and relevant 
+   correspondence.  A member whose membership is cancelled cannot again become a
+   member of the GCCC, and may not attend any GCCC functions.  A membership may
+   be cancelled only by a majority vote at a Board of Directors meeting.  The 
+   member is entitled to present a defense at this meeting and should be notified
+   30 days prior to said meeting.
 
 Section 3 - Membership Dues
 
@@ -151,187 +151,188 @@ Section 3 - Membership Dues
 Article VI - General Membership Meetings
 Section 1 – Date, time, location
 
-	General meetings shall be held monthly, on the third Thursday of each month, 
-  except as designated by the Board of Directors.  Meetings shall be held at the
-  residence of Brian Schubring, 2131 Mallard Lane, Hanover Park, IL 60103 unless
-  otherwise announced at a previous general meeting and/or in the newsletter or 
-  special mailing.  Provision shall be made for remote members to participate in
-  the meetings by means of internet videoconferencing, and members attending in
-  this fashion shall have the same rights as those attending in person.
-  Meetings normally start at 7:30 PM Central time and end by 10:00 PM, but 
-  meeting times may vary at the discretion of the President or Board of 
-  Directors.
+   General meetings shall be held monthly, on the third Thursday of each month, 
+   except as designated by the Board of Directors.  Meetings shall be held at the
+   residence of Brian Schubring, 2131 Mallard Lane, Hanover Park, IL 60103 unless
+   otherwise announced at a previous general meeting and/or in the newsletter or 
+   special mailing.  Provision shall be made for remote members to participate in
+   the meetings by means of internet videoconferencing, and members attending in
+   this fashion shall have the same rights as those attending in person.
+   Meetings normally start at 7:30 PM Central time and end by 10:00 PM, but 
+   meeting times may vary at the discretion of the President or Board of 
+   Directors.
 
 Section 2 – Conduct of General Meetings
 
-	All meetings shall have a Chair to conduct the meeting.  In order of priority,
-  the Chair shall be:  the President, or the Vice President, or another member 
-  of the Board of Directors designated by the President, or a BOD member chosen
-  by the BOD if the President is absent without designating a substitute.  The 
-  Chair may delegate his authority when necessary.  Control of the meeting rests
-  with the Chair.  The Chair should:
+   All meetings shall have a Chair to conduct the meeting.  In order of priority,
+   the Chair shall be:  the President, or the Vice President, or another member 
+   of the Board of Directors designated by the President, or a BOD member chosen
+   by the BOD if the President is absent without designating a substitute.  The 
+   Chair may delegate his authority when necessary.  Control of the meeting rests
+   with the Chair.  The Chair should:
 
-	  be familiar with the Constitution and Bylaws of the GCCC, as well as the 
-    duties of his/position;
+     be familiar with the Constitution and Bylaws of the GCCC, as well as the 
+     duties of his/position;
 
-	  know, and follow, the order of business for the conduct of the meeting;
+	 know, and follow, the order of business for the conduct of the meeting;
 
-	  conduct the meeting in accordance with accepted parliamentary procedure;
+	 conduct the meeting in accordance with accepted parliamentary procedure;
 
-	  ensure that each member present has an opportunity to express his views but 
-    is not allowed to abuse that right.
+	 ensure that each member present has an opportunity to express his views but 
+     is not allowed to abuse that right.
 
-	All meetings shall have minutes taken by the Secretary if he is present.  
-  Otherwise, the Chair shall appoint an attending Contributing Member as a 
-  substitute for the task.  Within a reasonable time after the meeting this
-  member shall forward his minutes to the Secretary for distribution and 
-  archiving.
+   All meetings shall have minutes taken by the Secretary if he is present.  
+   Otherwise, the Chair shall appoint an attending Contributing Member as a 
+   substitute for the task.  Within a reasonable time after the meeting this
+   member shall forward his minutes to the Secretary for distribution and 
+   archiving.
 
- 	All meetings should be conducted in accordance with parliamentary procedure as
-  interpreted by the Chair. Parliamentary procedure need not be followed 
-  rigorously; the intent is for GCCC Meetings to be impartial and structured 
-  without getting bogged down in procedure. The Chair has final say in all 
-  decisions.
+   All meetings should be conducted in accordance with parliamentary procedure as
+   interpreted by the Chair. Parliamentary procedure need not be followed 
+   rigorously; the intent is for GCCC Meetings to be impartial and structured 
+   without getting bogged down in procedure. The Chair has final say in all 
+   decisions.
  
-	Members may bring to GCCC Meetings friends and/or family members. However, 
-  young children must be supervised by the Member who brings them. 
+   Members may bring to GCCC Meetings friends and/or family members. However, 
+   young children must be supervised by the Member who brings them. 
+ 
+   Meetings may be conducted in the following order:
 
-	Meetings may be conducted in the following order:
+     Call to order by the Chair once the presence of a quorum has been determined
+     by the Chair.  Failing the presence of a quorum, that fact shall be noted in
+     the minutes.
 
-    Call to order by the Chair once the presence of a quorum has been determined
-    by the Chair.  Failing the presence of a quorum, that fact shall be noted in
-    the minutes.
+     Secretary’s report:  verification and approval (with corrections if needed)
+     of the minutes of the previous meeting
 
-		Secretary’s report:  verification and approval (with corrections if needed)
-    of the minutes of the previous meeting
+     Treasurer’s report:  financial summary covering the immediately prior 
+     calendar month
 
-		Treasurer’s report:  financial summary covering the immediately prior 
-    calendar month
+     Optional reports from other appointed Directors or ad-hoc committees
 
-		Optional reports from other appointed Directors or ad-hoc committees
+     Old Business (tabled motions, or topics awaiting further discussion)
 
-		Old Business (tabled motions, or topics awaiting further discussion)
+     New Business
 
-		New Business
+     Adjournment
 
-		Adjournment
+     Optional demos
 
-		Optional demos
+Section 3 - Actions Taken at General Meetings
 
-Section 3 – Actions Taken at General Meetings
-
-	A motion is a proposal that the GCCC take action, or that it express itself as
-  holding certain opinions.  A motion may be made by any Contributing Member of 
-  the GCCC in good standing.  Motions do not need to be delivered in writing
-  except as specified in the Bylaws; however, it is suggested that motions of 
-  major importance be written for clarity and accuracy.  When a motion has been 
-  made, the Chair must first consider it to determine whether it is in order.  
-  (No motion is in order which conflicts with the avowed object or purpose of 
-  the GCCC, or concerns a subject over which the GCCC has no jurisdiction.)  
-  Then a motion must be seconded before it may be considered.
+   A motion is a proposal that the GCCC take action, or that it express itself as
+   holding certain opinions.  A motion may be made by any Contributing Member of 
+   the GCCC in good standing.  Motions do not need to be delivered in writing
+   except as specified in the Bylaws; however, it is suggested that motions of 
+   major importance be written for clarity and accuracy.  When a motion has been 
+   made, the Chair must first consider it to determine whether it is in order.  
+   (No motion is in order which conflicts with the avowed object or purpose of 
+   the GCCC, or concerns a subject over which the GCCC has no jurisdiction.)  
+   Then a motion must be seconded before it may be considered.
 	
-	Unless ruled out of order by the Chair, a motion made and seconded should be 
-  restated to the meeting and becomes a subject for discussion and decision.  In
-  most instances, a motion will be discussed and voted on without any further 
-  complications.  However, this is not always the case.  The following actions
-  may occur during discussion; if any occur, they must be voted on before a vote
-  on the original motion may occur:
+   Unless ruled out of order by the Chair, a motion made and seconded should be 
+   restated to the meeting and becomes a subject for discussion and decision.  In
+   most instances, a motion will be discussed and voted on without any further 
+   complications.  However, this is not always the case.  The following actions
+   may occur during discussion; if any occur, they must be voted on before a vote
+   on the original motion may occur:
 
-	  An amendment to the original motion is proposed, or
+   An amendment to the original motion is proposed, or
 
-	  a motion is made to table the original motion, or
+     a motion is made to table the original motion, or
 
-	  a motion is made to refer the original motion for further study, or
+     a motion is made to refer the original motion for further study, or
 
-	  the original mover asks for permission to withdraw the motion (no other 
-    member can make this request).
+     the original mover asks for permission to withdraw the motion (no other 
+     member can make this request).
 
-	Additionally, if a motion is presented which members or the Chair feel 
-  requires further study or discussion, the Chair may use his authority to table
-  the motion without a vote.  Once a motion is tabled or referred for further 
-  study, discussion of it is ended for the duration of that  meeting.  A motion 
-  that remains tabled without action for more than six months is considered to 
-  have failed.
+   Additionally, if a motion is presented which members or the Chair feel 
+   requires further study or discussion, the Chair may use his authority to table
+   the motion without a vote.  Once a motion is tabled or referred for further 
+   study, discussion of it is ended for the duration of that  meeting.  A motion 
+   that remains tabled without action for more than six months is considered to 
+   have failed.
 
-	A motion is decided by majority vote of the Contributing Members present at 
-  the meeting.  Voting may be done verbally, by a show of hands, or via specific
-  internet software.  Members cannot be compelled to vote on a motion; however, 
-  they should be encouraged to do so.  The Chair of the meeting shall not 
-  normally vote except in the event of a tie.  This will help to preserve the 
-  impartiality of the Chair.
+   A motion is decided by majority vote of the Contributing Members present at 
+   the meeting.  Voting may be done verbally, by a show of hands, or via specific
+   internet software.  Members cannot be compelled to vote on a motion; however, 
+   they should be encouraged to do so.  The Chair of the meeting shall not 
+   normally vote except in the event of a tie.  This will help to preserve the 
+   impartiality of the Chair.
 
 Article VII – Meetings of the Board of Directors
 Section 1 – Date, Time, Location
 
-	Meetings shall be held on an as-needed basis, but must be held at least 
-  semiannually.  Meeting dates, times, and locations are designated by the 
-  president.
+   Meetings shall be held on an as-needed basis, but must be held at least 
+   semiannually.  Meeting dates, times, and locations are designated by the 
+   president.
 
 Section 2 – Conduct of BOD Meetings
 
-	The President shall chair meetings if he is present, otherwise the 
-  Vice-President takes that role.
+   The President shall chair meetings if he is present, otherwise the 
+   Vice-President takes that role.
 
-	No actions may be taken by the Board of Directors unless a quorum is present.
-	A motion is decided by majority vote of BOD members.  BOD members not present 
-  may cast their votes by proxy.  The Chair should refrain from voting except in
-  case of a tie.
+   No actions may be taken by the Board of Directors unless a quorum is present.
+   A motion is decided by majority vote of BOD members.  BOD members not present 
+   may cast their votes by proxy.  The Chair should refrain from voting except in
+   case of a tie.
 
-	All meetings shall have minutes taken by the Secretary or a designated 
-  substitute.
+   All meetings shall have minutes taken by the Secretary or a designated 
+   substitute.
 
-	Only BOD members may attend BOD meetings unless by invitation of a BOD member.
-	BOD meetings shall be held informally, and need not follow strict 
-  parliamentary procedures.
+   Only BOD members may attend BOD meetings unless by invitation of a BOD member.
+   BOD meetings shall be held informally, and need not follow strict 
+   parliamentary procedures.
 
 Section 3 – Special Board of Directors Meetings
 
-	If the President deems immediate action to be necessary he may call a Special 
-  BOD Meeting.  If it is possible to resolve the issue at a regular BOD meeting,
-  a special meeting is not appropriate.
+   If the President deems immediate action to be necessary he may call a Special 
+   BOD Meeting.  If it is possible to resolve the issue at a regular BOD meeting,
+   a special meeting is not appropriate.
 
-	A Special BOD Meeting may be conducted using a telephone conference call or an
-  electronic or internet conference system.
+   A Special BOD Meeting may be conducted using a telephone conference call or an
+   electronic or internet conference system.
 
-	Minutes of a Special BOD Meeting are not required, but a record of decisions 
-  must be kept.
+   Minutes of a Special BOD Meeting are not required, but a record of decisions 
+   must be kept.
 
-	Decisions made at a Special BOD Meeting are subject to review at subsequent 
-  Regular BOD Meetings.
+   Decisions made at a Special BOD Meeting are subject to review at subsequent 
+   Regular BOD Meetings.
 
 Section 4 – Responsibilities and Powers of the Board of Directors
 
-	The Purpose of the BOD shall be to oversee the general operations of the GCCC,
-  and to set policy. 
+   The Purpose of the BOD shall be to oversee the general operations of the GCCC,
+   and to set policy. 
 
-	The BOD shall review all appointed Directorships annually and at other times 
-  as it may see fit, and, if necessary, reassign such positions by vote.  The 
-  President may nominate Members for appointed positions; these nominations must
-  be approved by a majority vote at a BOD Meeting.
+   The BOD shall review all appointed Directorships annually and at other times 
+   as it may see fit, and, if necessary, reassign such positions by vote.  The 
+   President may nominate Members for appointed positions; these nominations must
+   be approved by a majority vote at a BOD Meeting.
 
-	The BOD shall authorize all expenditures by the GCCC except as otherwise noted
-  in the Constitution or Bylaws.
+   The BOD shall authorize all expenditures by the GCCC except as otherwise noted
+   in the Constitution or Bylaws.
  
-	The BOD may, at its discretion, support financially or by other means, the 
-  activities of other groups which promote personal computers in accordance with
-  the stated purpose of the GCCC. 
+   The BOD may, at its discretion, support financially or by other means, the 
+   activities of other groups which promote personal computers in accordance with
+   the stated purpose of the GCCC. 
 
-	The BOD may contract for the use of facilities and services as it sees fit to 
-  further the stated purposes of the GCCC.
+   The BOD may contract for the use of facilities and services as it sees fit to 
+   further the stated purposes of the GCCC.
  
-	BOD decisions are made by majority vote at a BOD Meeting. The Chair may, if 
-  necessary, cast a tie-breaking vote.
+   BOD decisions are made by majority vote at a BOD Meeting. The Chair may, if 
+   necessary, cast a tie-breaking vote.
  
-	If a club elected officer or appointed Director is clearly shown to be 
-  unwilling, unable, or incapable of performing the duties of the office, the 
-  BOD may tell that person to step down.
+   If a club elected officer or appointed Director is clearly shown to be 
+   unwilling, unable, or incapable of performing the duties of the office, the 
+   BOD may tell that person to step down.
 
-	If an elected President is asked to step down, the Vice President shall assume
-  the President’s post until the next regular election, or the BOD may instead 
-  designate another substitute for that period of time. 
-	If an elected officer other than the President is unable to complete his term,
-  a replacement shall be chosen by the BOD.  This appointment will last until
-  the next regular election.
+   If an elected President is asked to step down, the Vice President shall assume
+   the President’s post until the next regular election, or the BOD may instead 
+   designate another substitute for that period of time. 
+
+   If an elected officer other than the President is unable to complete his term,
+   a replacement shall be chosen by the BOD.  This appointment will last until
+   the next regular election.
 
 Article VIII - The Elected officers
 Section 1 – Qualifications
@@ -343,143 +344,159 @@ Section 1 – Qualifications
 
 Section 2 – Terms of Office
 
-	The term of office for all elected positions is one year beginning at the 
-  General Meeting following the one at which the election took place.
+   The term of office for all elected positions is one year beginning at the 
+   General Meeting following the one at which the election took place.
 
 Section 3 – The Election Process
 
-	Nominations for the four elected positions shall take place at the General 
-  Meeting of the month of September.  Announcements to this effect shall be 
-  posted on the club web site and disseminated in the club newsletter at least 
-  one month prior to the date of the meeting.
+   Nominations for the four elected positions shall take place at the General 
+   Meeting of the month of September.  Announcements to this effect shall be 
+   posted on the club web site and disseminated in the club newsletter at least 
+   one month prior to the date of the meeting.
 
-	At the meeting, nominations should be entertained by the Chair from 
-  Contributing Members in the following order: President, Vice-President, 
-  Treasurer, Secretary.  As each nomination is made the chair should first 
-  confirm whether the nominee is willing to accept the duty, then ask for a 
-  second from a Contributing Member.  A second is required to make a nomination 
-  valid.  Before closing nominations for each office, the Chair shall inquire 
-  whether there are any further nominations.  If there is no response, 
-  nominations for that office are closed.
+   At the meeting, nominations should be entertained by the Chair from 
+   Contributing Members in the following order: President, Vice-President, 
+   Treasurer, Secretary.  As each nomination is made the chair should first 
+   confirm whether the nominee is willing to accept the duty, then ask for a 
+   second from a Contributing Member.  A second is required to make a nomination 
+   valid.  Before closing nominations for each office, the Chair shall inquire 
+   whether there are any further nominations.  If there is no response, 
+   nominations for that office are closed.
 
-  Written nominations may also be submitted to the Secretary prior to the 
-  September meeting.  Such nominations must be signed by two Contributing 
-  Members in good standing, and also by the candidate if he will not be present 
-  at the meeting.
+   Written nominations may also be submitted to the Secretary prior to the 
+   September meeting.  Such nominations must be signed by two Contributing 
+   Members in good standing, and also by the candidate if he will not be present 
+   at the meeting.
 
-	Promptly after the meeting, the list of nominees shall be posted both on the 
-  club web site and on the TandyList site, and made available to any member who 
-  requests the information.
+   Promptly after the meeting, the list of nominees shall be posted both on the 
+   club web site and on the TandyList site, and made available to any member who 
+   requests the information.
 
-	Every GCCC Contributing Member in good standing is entitled to one vote for 
-  each elective office.  Voting is done by means of special software at the 
-  TandyList site which preserves the voter’s privacy, while checking that he is 
-  current with his dues.  Deadline for voting is the beginning of the October 
-  General Meeting, at which time the results are downloaded and the new officers
-  ratified as part of the meeting proceedings.  For each elective position only
-  one officer shall be chosen.  In the event of a tie, a run-off ballot will be
-  held between the tied candidates.  Normally, the new officers begin their
-  terms with the November General Meeting.
+   Every GCCC Contributing Member in good standing is entitled to one vote for 
+   each elective office.  Voting is done by means of special software at the 
+   TandyList site which preserves the voter’s privacy, while checking that he is 
+   current with his dues.  Deadline for voting is the beginning of the October 
+   General Meeting, at which time the results are downloaded and the new officers
+   ratified as part of the meeting proceedings.  For each elective position only
+   one officer shall be chosen.  In the event of a tie, a run-off ballot will be
+   held between the tied candidates.  Normally, the new officers begin their
+   terms with the November General Meeting.
 
 Section 4 – Duties of the President 
 
-	The President shall be responsible to the members of the GCCC for the actions 
-  of all officers, in accordance with all applicable laws and regulations, and 
-  in accordance with the provisions of the Constitution and Bylaws.
+   The President shall be responsible to the members of the GCCC for the actions 
+   of all officers, in accordance with all applicable laws and regulations, and 
+   in accordance with the provisions of the Constitution and Bylaws.
 
-	A copy of all relevant correspondence received or sent by the President on 
-  behalf of the GCCC shall be passed to the Secretary.
+   A copy of all relevant correspondence received or sent by the President on 
+   behalf of the GCCC shall be passed to the Secretary.
  
-	The President shall schedule all meetings of the Board of Directors. 
+   The President shall schedule all meetings of the Board of Directors. 
 
-	The President shall ensure that the members are informed of the location of 
-  General Meetings through the periodical. 
+   The President shall ensure that the members are informed of the location of 
+   General Meetings through the periodical. 
 
-	The President shall ensure that up to date copies of the Constitution and 
-  Bylaws are maintained by the Group, and that copies are available to all
-  members in good standing upon request.  A reasonable fee may be charged for 
-  copying and mailing costs. 
+   The President shall ensure that up to date copies of the Constitution and 
+   Bylaws are maintained by the Group, and that copies are available to all
+   members in good standing upon request.  A reasonable fee may be charged for 
+   copying and mailing costs. 
 
-	The President shall prepare for each issue of the periodical a report of the 
-  activities of the executive, and report on any meetings or events sponsored
-  or supported by the GCCC. 
+   The President shall prepare for each issue of the periodical a report of the 
+   activities of the executive, and report on any meetings or events sponsored
+   or supported by the GCCC. 
 
-	The President shall supervise the appointed Directors and shall ensure that 
-  they carry out their duties properly. The BOD shall be informed of any 
-  problems that may arise. 
+   The President shall supervise the appointed Directors and shall ensure that 
+   they carry out their duties properly. The BOD shall be informed of any 
+   problems that may arise. 
 
-	The President may create or abolish appointed Directorships as necessary for 
-  the well-being of the club, and may reappoint or replace holders of existing 
-  Directorships.  Such actions are subject to the approval of the Board of 
-  Directors.
+   The President may create or abolish appointed Directorships as necessary for 
+   the well-being of the club, and may reappoint or replace holders of existing 
+   Directorships.  Such actions are subject to the approval of the Board of 
+   Directors.
 
-	The President will act as a good-will ambassador in relations with vendors and
-  other clubs. 
+   The President will act as a good-will ambassador in relations with vendors and
+   other clubs. 
+
+Section 5 - Duties of the Vice President 
+
+   The Vice President shall assume the duties of the President in the event that
+   the President is absent or for any reason temporarily unable to fulfill those
+   duties. 
+
+   In the event that the position of President becomes vacant, the Vice President
+   shall assume the position of President until the next General Meeting. 
+
+   A copy of all relevant correspondence received or sent by the Vice President 
+   on behalf of the GCCC shall be passed to the Secretary. 
+
+   The Vice President shall assist the President as required. 
+
+   The Vice-President shall coordinate with the Secretary and Treasurer to
+   produce the necessary financial records for the GCCC. 
 
 Section 6 – Duties of the Treasurer
 
-	The Treasurer must be known to be of responsible nature, and must be available
-  to the President by accepted communication methods. 
+   The Treasurer must be known to be of responsible nature, and must be available
+   to the President by accepted communication methods. 
 
-	The Treasurer shall be responsible for maintaining the financial records of 
-  the GCCC. 
+   The Treasurer shall be responsible for maintaining the financial records of 
+   the GCCC. 
 
-	The Treasurer shall ensure that a financial statement is prepared annually for
-  publication in the periodical. 
+   The Treasurer shall ensure that a financial statement is prepared annually for
+   publication in the periodical. 
 
-	A copy of all relevant correspondence received or sent by the Treasurer on 
-  behalf of the GCCC shall be passed to the Secretary. 
+   A copy of all relevant correspondence received or sent by the Treasurer on 
+   behalf of the GCCC shall be passed to the Secretary. 
 
-	The Treasurer shall submit an activity report to the BOD as requested for BOD
-  and General Meetings. 
+   The Treasurer shall submit an activity report to the BOD as requested for BOD
+   and General Meetings. 
 
-	The Treasurer shall receive and disburse club monies. 
+   The Treasurer shall receive and disburse club monies. 
 
-	The Treasurer shall be the chief financial officer for the GCCC, and shall 
-  ensure, at all times, that the financial affairs of the GCCC are run in a 
-  business-like fashion and in strict accordance with all rules governing the 
-  financial operations of the GCCC. 
+   The Treasurer shall be the chief financial officer for the GCCC, and shall 
+   ensure, at all times, that the financial affairs of the GCCC are run in a 
+   business-like fashion and in strict accordance with all rules governing the 
+   financial operations of the GCCC. 
 
-	The Treasurer shall ensure that the Board of Directors is aware of the
-  financial status of the GCCC and all financial dealings carried out on behalf
-  of the GCCC. 
+   The Treasurer shall ensure that the Board of Directors is aware of the
+   financial status of the GCCC and all financial dealings carried out on behalf
+   of the GCCC. 
 
-	All funds belonging to the GCCC shall be kept in GCCC bank accounts, and shal
-  l never be merged with bank accounts of any club officer. 
+   All funds belonging to the GCCC shall be kept in GCCC bank accounts, and shall
+   never be merged with bank accounts of any club officer. 
 
-	The GCCC General Operations fund shall be organized as follows: 
+   The GCCC General Operations fund shall be organized as follows: 
 
-		The GCCC General Operations fund shall be used by the GCCC officers for the 
-    day-to-day operations of the GCCC.  All monies received by the GCCC shall be
-	  deposited to this account. 
+     The GCCC General Operations fund shall be used by the GCCC officers for the 
+     day-to-day operations of the GCCC.  All monies received by the GCCC shall be
+     deposited to this account. 
 
-		Signing authority for this fund shall be maintained by the Treasurer.
+     Signing authority for this fund shall be maintained by the Treasurer.
 
-	Alternate signing authority may be appointed by the BOD. 
+   Alternate signing authority may be appointed by the BOD. 
 
-	Separate Petty Cash Funds may be maintained by discretion of the President.   
-  Petty Cash Funds may not exceed  $50.00.  Receipts will be required for all 
-  expenditures from Petty Cash Funds.  When a Petty Cash Fund is created, the 
-  Secretary will record the date and purpose for the Fund.  The Treasurer will 
-  record the amount initially distributed and will keep track of expenditures 
-  via receipts. 
+   Separate Petty Cash Funds may be maintained by discretion of the President.   
+   Petty Cash Funds may not exceed  $50.00.  Receipts will be required for all 
+   expenditures from Petty Cash Funds.  When a Petty Cash Fund is created, the 
+   Secretary will record the date and purpose for the Fund.  The Treasurer will 
+   record the amount initially distributed and will keep track of expenditures 
+   via receipts. 
 
-	All expenses incurred by the Newsletter Editor for producing the Newsletter
-  will be reimbursed to the Newsletter Editor by the Treasurer on demand.  This
-  may be via a Petty Cash Fund, on the discretion of the President. 
+   All expenses incurred by the Newsletter Editor for producing the Newsletter
+   will be reimbursed to the Newsletter Editor by the Treasurer on demand.  This
+   may be via a Petty Cash Fund, on the discretion of the President. 
 
-	If Newsletter expenses grow beyond the scope of a Petty Cash Fund, the 
-  President may ask the Treasurer to create a separate Fund for Newsletter 
-  expenses.  Signing authority for this Fund shall be maintained by the 
-  Newsletter Editor, and the Newsletter Editor must keep records and receipts 
-  of all expenditures. 
+   If Newsletter expenses grow beyond the scope of a Petty Cash Fund, the 
+   President may ask the Treasurer to create a separate Fund for Newsletter 
+   expenses.  Signing authority for this Fund shall be maintained by the 
+   Newsletter Editor, and the Newsletter Editor must keep records and receipts 
+   of all expenditures. 
 
-	At the President's request, the President may be reimbursed up to  $100.00 a 
-  year for telephone expenses. 
+   At the President's request, the President may be reimbursed up to  $100.00 a 
+   year for telephone expenses. 
 
-	The President may request at a BOD Meeting that any member be reimbursed for 
-  expenses directly related to club operations or club activities. 
-
+   The President may request at a BOD Meeting that any member be reimbursed for 
+   expenses directly related to club operations or club activities. 
 
 Section 7 – Duties of the Secretary 
 
@@ -513,7 +530,6 @@ Section 7 – Duties of the Secretary
    his successor in either print or digital form. 
 
 Article IX – The Appointed Directors
-
 Section 1 – Duties of the Director of Demos and Reviews 
 
    The Director of Demos and Reviews handles all software or hardware received by
@@ -551,8 +567,8 @@ Section 3 – Duties of the Director of Membership
    Owned, etc., may also be noted
 
    The Membership List may be maintained as a private web page accessible only 
-  to members of GCCC or the larger Community as defined in Article II of these 
-  Bylaws.
+   to members of GCCC or the larger Community as defined in Article II of these 
+   Bylaws.
 
    The Director of Membership shall ensure that any use of the Membership List 
    will not infringe on the privacy of any member.  Subject to that limitation, 
@@ -568,30 +584,31 @@ Section 4 – Duties of the Director of Communications
    Other “official” Glenside BBS's may be established by members of the GCCC 
    providing the following rules are met: 
 
-   The BBS must be approved by the BOD. 
+     The BBS must be approved by the BOD. 
 
-   The name of the BBS must include the word Glenside on the log-in screen. 
-   Meeting announcements and other GCCC activities must be posted for all	
-   callers to read after establishing their accounts and passwords. 
+     The name of the BBS must include the word Glenside on the log-in screen.
 
-   At no time will the BBS or its operator knowingly distribute copyrighted
-   software without permission of the copyright holder. If it is found that an 
-   official BBS is knowingly providing or distributing copyrighted material 
-   illegally, that system shall be dropped as an official Glenside BBS. If this
-   system is run by the Director of Communications, then he will be told to 
-   step down from that position by the BOD and a new Member will be found to 
-   fill the position. 
+     Meeting announcements and other GCCC activities must be posted for all	
+     callers to read after establishing their accounts and passwords. 
 
-   GCCC Members may not be charged for access to the BBS, Glenside bulletins, 
-   internal mail, or internal databases, but may be charged for special 
-   services such as Internet mail or USENet news. 
+     At no time will the BBS or its operator knowingly distribute copyrighted
+     software without permission of the copyright holder. If it is found that an 
+     official BBS is knowingly providing or distributing copyrighted material 
+     illegally, that system shall be dropped as an official Glenside BBS. If this
+     system is run by the Director of Communications, then he will be told to 
+     step down from that position by the BOD and a new Member will be found to 
+     fill the position. 
 
-   The GCCC may provide cash support to the system operators of official
-   Glenside BBS's.   The amount cannot exceed $50.00 per year per system 
-   operator. 
+     GCCC Members may not be charged for access to the BBS, Glenside bulletins, 
+     internal mail, or internal databases, but may be charged for special 
+     services such as Internet mail or USENet news. 
 
-   Each system operator must police his or her BBS, including defining a code
-   of conduct. 
+     The GCCC may provide cash support to the system operators of official
+     Glenside BBS's.   The amount cannot exceed $50.00 per year per system 
+     operator. 
+
+     Each system operator must police his or her BBS, including defining a code
+     of conduct. 
 
 Section 5 – Duties of the Librarian 
 

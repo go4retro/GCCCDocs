@@ -8,28 +8,29 @@ Section 4 – Duties of the Director of Communications
    Other “official” Glenside BBS's may be established by members of the GCCC 
    providing the following rules are met: 
 
-   The BBS must be approved by the BOD. 
+     The BBS must be approved by the BOD. 
 
-   The name of the BBS must include the word Glenside on the log-in screen. 
-   Meeting announcements and other GCCC activities must be posted for all	
-   callers to read after establishing their accounts and passwords. 
+     The name of the BBS must include the word Glenside on the log-in screen.
 
-   At no time will the BBS or its operator knowingly distribute copyrighted
-   software without permission of the copyright holder. If it is found that an 
-   official BBS is knowingly providing or distributing copyrighted material 
-   illegally, that system shall be dropped as an official Glenside BBS. If this
-   system is run by the Director of Communications, then he will be told to 
-   step down from that position by the BOD and a new Member will be found to 
-   fill the position. 
+     Meeting announcements and other GCCC activities must be posted for all	
+     callers to read after establishing their accounts and passwords. 
 
-   GCCC Members may not be charged for access to the BBS, Glenside bulletins, 
-   internal mail, or internal databases, but may be charged for special 
-   services such as Internet mail or USENet news. 
+     At no time will the BBS or its operator knowingly distribute copyrighted
+     software without permission of the copyright holder. If it is found that an 
+     official BBS is knowingly providing or distributing copyrighted material 
+     illegally, that system shall be dropped as an official Glenside BBS. If this
+     system is run by the Director of Communications, then he will be told to 
+     step down from that position by the BOD and a new Member will be found to 
+     fill the position. 
 
-   The GCCC may provide cash support to the system operators of official
-   Glenside BBS's.   The amount cannot exceed $50.00 per year per system 
-   operator. 
+     GCCC Members may not be charged for access to the BBS, Glenside bulletins, 
+     internal mail, or internal databases, but may be charged for special 
+     services such as Internet mail or USENet news. 
 
-   Each system operator must police his or her BBS, including defining a code
-   of conduct. 
+     The GCCC may provide cash support to the system operators of official
+     Glenside BBS's.   The amount cannot exceed $50.00 per year per system 
+     operator. 
+
+     Each system operator must police his or her BBS, including defining a code
+     of conduct. 
 
