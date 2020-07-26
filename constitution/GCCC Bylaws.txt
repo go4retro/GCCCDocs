@@ -593,15 +593,25 @@ Section 4 – Duties of the Director of Communications
    Each system operator must police his or her BBS, including defining a code
    of conduct. 
 
-   Software Librarian:
+Section 5 – Duties of the Librarian 
 
-     The term of office for the Software Librarian shall be indefinite.
-     This is an appointed position.
+   The librarian is charged with storing and preserving, as much as possible, all
+   printed material and software items that are club property, including copies 
+   of all Disks-of-the-Month.
 
-     The Software Librarian shall maintain all software and documentation
-     received by GCCC from vendors and other sources, and keep up to date all
-     records of that software and documentation. These records shall be made
-     available to the community.
+   The purpose of the software library is to provide a source of quality software
+   to the members of the GCCC. 
+
+   The library shall be governed under the copyright laws of the United States of
+   America.
+
+   The GCCC Library shall be for the use and benefit of members only. 
+
+   The Librarian may publish a list of available software in the club newsletter 
+   at no charge. 
+
+   The Software Librarian may charge members for reasonable duplication and 
+   mailing expenses, but may not otherwise charge for access to the GCCC Library. 
 
    Club Newsletter Editor:
 
@@ -728,31 +738,6 @@ Periodical Publication
 
      Articles intended for publication in the periodical may be subject to
      review and approval by the Board of Directors.
-
-Software Library
-
-   General
-
-     The purpose of the software library is to provide a source of quality
-     software to the members of the GCCC.
-
-     The software library shall be governed under the copyright laws of the
-     United States of America.
-
-   Operation
-
-     The GCCC Software Library will be for the use and benefit of members only.
-
-     With approval of the Board of Directors, the Disk of the Month Director
-     may appoint a Software Librarian, otherwise the Disk of the Month
-     Director is the Software Librarian.
-
-     The Software Librarian shall publish a list of available software in the
-     periodical at no charge.
-
-     The Software Librarian may charge members for reasonable duplication and
-     mailing expenses, but may not otherwise charge for access to the GCCC
-     Library.
 
 Article I
 Article II, Section 5
