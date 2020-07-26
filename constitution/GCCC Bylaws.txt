@@ -593,18 +593,6 @@ Section 4 – Duties of the Director of Communications
    Each system operator must police his or her BBS, including defining a code
    of conduct. 
 
-   Disk of the Month Director:
-
-     The term of office for the Disk of the Month Director shall be indefinite.
-     This is an appointed position.
-
-     The Disk of the Month Director is responsible for distributing the Disk
-     of the Month disks, and may delegate duplication of the Disk of the Month
-     disks.
-
-     The Disk of the Month Director is not responsible for collecting Disk of
-     the Month dues; this is the duty of the Treasurer.
-
    Software Librarian:
 
      The term of office for the Software Librarian shall be indefinite.
