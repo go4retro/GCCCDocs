@@ -1,12 +1,14 @@
 Ratified unanimously by members represented at the General Meeting of
-September 13, 2018
+MMMMMMMMM DD, YYYY
 
               BYLAWS OF THE GLENSIDE COLOR COMPUTER CLUB, INC.
+
+1. Official Address
 
    The mailing address of the Glenside Color Computer Club (GCCC) shall be the
    address of the President.
 
-Definitions:
+2. Definitions:
 
    The term "quorum" shall mean the required number and composition of
    members present at a meeting to make the meeting valid, as follows:
@@ -31,7 +33,7 @@ Definitions:
    the OS-9 or OS-9000 operating systems as well as any other computer deemed
    appropriate by the membership.
 
-               Amendments to the Constitution and Bylaws
+3.0. Amendments to the Constitution and Bylaws
 
    Any individual Board of Directors member in good standing may, at any time, move
    to amend the Constitution by delivering a written "motion to amend" to the 
@@ -68,9 +70,9 @@ Definitions:
    six months. A motion that is tabled for more than six months without discussion 
    is considered to have failed. 
 
-                             Membership
+4. Membership
 
-Membership Categories
+4.1. Membership Caegories
 
    The membership of the GCCC shall consist of the following categories:
 
@@ -88,7 +90,7 @@ Membership Categories
    A Contributing Member shall be deemed to be in good standing upon payment
    of the annual Membership dues of the GCCC.
 
-                             Honorary Membership
+4.2. Honorary Membership
 
    The Board of Directors may nominate as Honorary Members individuals deemed
    by the Board to be worthy. An Honorary Membership shall be ratified by a
@@ -102,7 +104,7 @@ Membership Categories
    All Members are entitled to a copy of each issue of the published
    periodical.
 
-GCCC Dues
+4.3. Membership Dues
 
    Each Contributing Member may pay annual dues in the amount set by the Board
    of Directors and published in the Bylaws. Dues are non-refundable.
@@ -118,7 +120,7 @@ GCCC Dues
    Notice of dues shall be published in the club newsletter within 30 days of
    the date dues must be remitted.
 
-Membership suspension and cancellation
+4.4. Membership suspension and cancellation
 
    A member whose membership is cancelled cannot again become a member of the
    GCCC, and may not attend any GCCC functions.
@@ -144,7 +146,7 @@ Membership suspension and cancellation
    Board of Directors meeting and should be notified 30 days prior to said
    meeting.
 
-GCCC Executive Officers
+5. Executive Officers
 
    The elected officers shall consist of:
 
@@ -160,9 +162,9 @@ GCCC Executive Officers
    
    The term of office for the Board of Directors shall be infinite.
 
-Terms, Duties and Responsibilities of club officers
+5.1. Terms, Duties and Responsibilities of club officers
 
-   President:
+5.1.1. President:
 
      The term of office for the President shall be one (1) year. This is an
      elected position.
@@ -207,7 +209,7 @@ Terms, Duties and Responsibilities of club officers
      The President will act as a good-will ambassador in relations with vendors
      and other clubs.
 
-   Vice President:
+5.1.2. Vice President:
 
      The term of office for the Vice President shall be one (1) year. This is
      an elected position.
@@ -219,7 +221,7 @@ Terms, Duties and Responsibilities of club officers
      A copy of all relevant correspondence received or sent by the
      Vice President on behalf of the GCCC shall be passed to the Secretary.
 
-   Secretary:
+5.1.3. Secretary:
 
      The term of office for the Secretary shall be one (1) year. This is an
      elected position.
@@ -259,7 +261,7 @@ Terms, Duties and Responsibilities of club officers
      Constitution and other important records such as meeting minutes in a
      zipper attaché case. This case will be transferred to the next secretary.
 
-   Treasurer:
+5.1.4. Treasurer:
 
      The term of office for the Treasurer shall be one (1) year. This is an
      elected position.
@@ -287,7 +289,7 @@ Terms, Duties and Responsibilities of club officers
      zipper attaché case. This attaché case will be transferred to the next
      Treasurer.
 
-   Director of Demos and Reviews:
+5.1.5. Director of Demos and Reviews:
 
      The term of office for the Director of Demos and Reviews shall be
      indefinite. This is an appointed position.
@@ -307,7 +309,7 @@ Terms, Duties and Responsibilities of club officers
      GCCC from vendors for demonstration, as well as all demonstrations and
      reviews, or shall delegate the job.
 
-   Director of Special Events:
+5.1.6. Director of Special Events:
 
      The term of office for the Director of Special Events shall be indefinite.
      This is an appointed position.
@@ -323,7 +325,7 @@ Terms, Duties and Responsibilities of club officers
      Board of Directors, as appropriate; to ensure that special events stay on
      schedule.
 
-   Director of Communications:
+5.1.7. Director of Communications:
 
      The term of office for the Director of Communications shall be indefinite.
      This is an appointed position.
@@ -334,7 +336,7 @@ Terms, Duties and Responsibilities of club officers
      The Director of Communications shall maintain a list of known members
      supporting the CoCo.
 
-   Disk of the Month Director:
+5.1.8. Disk of the Month Director:
 
      The term of office for the Disk of the Month Director shall be indefinite.
      This is an appointed position.
@@ -346,7 +348,7 @@ Terms, Duties and Responsibilities of club officers
      The Disk of the Month Director is not responsible for collecting Disk of
      the Month dues; this is the duty of the Treasurer.
 
-   Software Librarian:
+5.1.9. Software Librarian:
 
      The term of office for the Software Librarian shall be indefinite.
      This is an appointed position.
@@ -356,7 +358,7 @@ Terms, Duties and Responsibilities of club officers
      records of that software and documentation. These records shall be made
      available to the community.
 
-   Club Newsletter Editor:
+5.1.10. Club Newsletter Editor:
 
      The term of office for the Club Newsletter Editor shall be indefinite.
      This is an appointed position.
@@ -374,7 +376,7 @@ Terms, Duties and Responsibilities of club officers
      The Editor shall keep copies of all club newsletters to be passed to the
      next newsletter editor.
 
-Terms, Duties and Responsibilities of the Board of Directors:
+5.2. Terms, Duties and Responsibilities of the Board of Directors:
 
    The Purpose of the Board of Directors shall be to oversee the general
    operations of the GCCC, and to set policy. The officers are responsible
@@ -407,14 +409,14 @@ Terms, Duties and Responsibilities of the Board of Directors:
    term, a replacement shall be chosen by the Board of Directors. This
    appointment will last until the next General Election.
 
-Elections
+5.3. Elections
 
-   Eligibility:
+5.3.1. Eligibility:
 
      Any General Member in good standing who is at least 21 years of age may
      run for any elected position.
 
-Nominations:
+5.3.2. Nominations:
 
    The date and location of the General Meeting of the GCCC at which the
    election will be held will be published in the periodical at least one
@@ -435,7 +437,7 @@ Nominations:
    the Meeting. Such nominations must be signed by two nominators in good
    standing, and the candidate if the candidate is not present at the Meeting.
 
-Procedure
+5.3.3. Procedure
 
    Nominations shall take place each year in or about the month of September
    at a General Meeting. The voting shall take place the following month,
@@ -461,9 +463,9 @@ Procedure
 
    For all elected positions only one officer shall be chosen.
 
-Financial
+6. Financial
 
-   Financial Operations
+6.1. Financial Operations
 
      The Treasurer shall be the chief financial officer for the GCCC, and
      shall ensure, at all times, that the financial affairs of the GCCC are
@@ -474,12 +476,12 @@ Financial
      financial status of the GCCC and all financial dealings carried out on
      behalf of the GCCC.
 
-   Group Funds
+6.1.1. Group Funds
 
      All funds belonging to the GCCC shall be kept in separate bank accounts,
      and shall never be merged with bank accounts of any club officer.
 
-   The GCCC General Operations fund shall be organized as follows:
+6.1.2. The GCCC General Operations fund shall be organized as follows:
 
      The GCCC General Operations fund shall be used by the GCCC officers for
      the day-to-day operations of the GCCC.
@@ -515,9 +517,9 @@ Financial
      be reimbursed for expenses directly related to club operations or club
      activities.
 
-Periodical Publication
+7. Periodical Publication
 
-   General
+7.1. General
 
      The official periodical of the GCCC shall be known as "CoCo~123". Its
      purpose is to communicate to members of the GCCC items of interest to the
@@ -531,7 +533,7 @@ Periodical Publication
      Commercial advertising may be accepted, but shall not influence the
      editorial content of the periodical.
 
-   Operation:
+7.2. Operation:
 
      The Newsletter shall be published on a regular basis, with the frequency
      to be determined by the Board of Directors. The President may determine
@@ -549,7 +551,7 @@ Periodical Publication
      guidelines detailed in Article V. Financial operations of the periodical
      shall be conducted in accordance with the Constitution and Bylaws.
 
-   Editorial Content
+7.3. Editorial Content
 
      The Newsletter shall publish, in the next issue, any editorial material
      that is provided to it by the Board of Directors, the Secretary, the
@@ -561,7 +563,7 @@ Periodical Publication
 
      Editorial material shall not conflict with the stated purpose of the GCCC.
 
-   Articles
+7.4. Articles
 
      The Newsletter may publish articles submitted to the Newsletter Editor as
      space allows, however the purpose of the GCCC should be kept in mind.
@@ -569,9 +571,9 @@ Periodical Publication
      Articles intended for publication in the periodical may be subject to
      review and approval by the Board of Directors.
 
-Software Library
+8. Software Library
 
-   General
+8.1. General
 
      The purpose of the software library is to provide a source of quality
      software to the members of the GCCC.
@@ -579,7 +581,7 @@ Software Library
      The software library shall be governed under the copyright laws of the
      United States of America.
 
-   Operation
+8.2. Operation
 
      The GCCC Software Library will be for the use and benefit of members only.
 
@@ -594,12 +596,12 @@ Software Library
      mailing expenses, but may not otherwise charge for access to the GCCC
      Library.
 
-GCCC BBSs and Web Sites
+9. BBSs and Web Sites
 
-   Glenside BBSs and Web Sites
+9.1. General
 
-     Official Glenside BBSs and Web Sites may be established by the GCCC
-     membership providing the following rules are met:
+   Official Glenside BBSs and Web Sites may be established by the GCCC
+   membership providing the following rules are met:
 
      The Board of Directors must approve all Official Glenside BBSs and Web
      Sites.
@@ -642,9 +644,9 @@ GCCC BBSs and Web Sites
    Each system operator must police his or her BBS or Web Site, including
    defining a code of conduct.
 
-Conduct of General Meetings
+10. Conduct of General Meetings
 
-   General
+10.1. General
 
      Meetings shall be held on the second Thursday of each month, except as
      designated by the Board of Directors. Meetings shall be held at the
@@ -679,7 +681,7 @@ Conduct of General Meetings
      Members may bring to GCCC Meetings friends and/or family members. However,
      young children must be supervised by the Member who brings them.
 
-   Responsibilities of the Chair
+10.2. Responsibilities of the Chair
 
      Control of any meeting of the GCCC rests with the Chair. The Chair should:
 
@@ -694,7 +696,7 @@ Conduct of General Meetings
        Ensure that each member has an opportunity to express his or her views
        but is not allowed to abuse this right.
 
-   Order of Business
+10.3. Order of Business
 
      Meetings may be conducted in the following order:
 
@@ -716,7 +718,7 @@ Conduct of General Meetings
      the Chair may table the motion. A motion that remains tabled without
      discussion for more than six months is considered to have failed.
 
-   Making a Motion
+10.4. Making a Motion
 
      A motion is a proposal that the GCCC take action, or that it express
      itself as holding certain opinions. A motion may be made by any regular
@@ -744,7 +746,7 @@ Conduct of General Meetings
      When a motion has been made, the Chair must consider it to determine
      whether it is in order.
 
-   Debating a Motion
+10.5. Debating a Motion
 
      Unless ruled out of order by the Chair, a motion made and seconded is
      stated to the meeting and becomes a subject for discussion and decision.
@@ -762,7 +764,7 @@ Conduct of General Meetings
 
        The motion is resolved by vote.
 
-   Voting
+10.6. Voting
 
      A motion is decided by majority vote of Members present at the General
      Meeting, except as specified in Article 1, Section 3.
@@ -775,9 +777,9 @@ Conduct of General Meetings
      The Chair of the meeting shall not normally vote, except in the event of a
      tie. This will help to preserve the impartiality of the Chair.
 
-BOARD OF DIRECTORS Meetings
+11. BOARD OF DIRECTORS Meetings
 
-   General
+11.1. General
 
      Meetings shall be held on an as-needed basis, but must be held at least
      quarterly. Meetings time and place are designated by the President.
@@ -795,7 +797,7 @@ BOARD OF DIRECTORS Meetings
      except as specified in the Bylaws, or by invitation of any Board of
      Directors member.
 
-   Special Board of Directors Meetings
+11.2. Special Board of Directors Meetings
 
      If the President deems immediate action necessary, a Special Board of
      Directors meeting may be called. If it is possible to resolve the issue
@@ -811,7 +813,7 @@ BOARD OF DIRECTORS Meetings
 
        Minutes are not necessary, but a record of decisions made must be kept.
 
-   Voting
+11.3. Voting
 
      A motion is decided by majority vote of Board of Directors members. All
      Board of Directors members get one vote.
