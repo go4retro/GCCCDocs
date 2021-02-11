@@ -26,7 +26,7 @@ MMMMMMMMM DD, YYYY
      members of the quorum that have voted, unless otherwise specified.
 
    The corporate publication shall hereafter be referred to as the club
-   newsletter, and shall initially be the CoCo~123.
+   newsletter, and shall initially be named "CoCo~123".
 
    The term "Community" shall mean the community of Tandy Color Computer (and
    related computer) users. Related computers include any computer running
@@ -111,7 +111,7 @@ MMMMMMMMM DD, YYYY
 
      Copyright or patent infringement
 
-     Abuse of club property, club members, or any BBS
+     Abuse of club property, club members, or digital medium
     
      Theft
 
@@ -352,7 +352,7 @@ MMMMMMMMM DD, YYYY
 
      President, Vice President, Secretary and Treasurer.
 
-   The term of office for the elected offices shall be one (1) year.
+   The term of office shall be one (1) year.
 
 7.2.1 Terms, Duties and Responsibilities of club officers
 
@@ -372,7 +372,7 @@ MMMMMMMMM DD, YYYY
    The President shall schedule all meetings of the Board of Directors.
 
    The President shall ensure that the Members are informed of the location
-   of General Meetings through the periodical and Web Site.
+   of General Meetings through applicable physical and digital methods.
 
    The President shall ensure that up to date copies of the Constitution and
    Bylaws are maintained by the Secretary, and that copies are available to
@@ -388,8 +388,8 @@ MMMMMMMMM DD, YYYY
    shall be informed of any problems that may arise.
 
    The President may, as appropriate, appoint members in good standing as
-   Directors, said appointments being approved by the Board of Directors by a
-   majority vote.
+   Directors of the Board, said appointments being approved by the Board of
+   Directors by a majority vote.
 
    The President will act as a good-will ambassador in relations with vendors
    and other clubs.
@@ -431,7 +431,7 @@ MMMMMMMMM DD, YYYY
    produce the necessary year-end financial records for the club.
 
    The Secretary shall submit an activity report to the Board of Directors
-   as requested for the Board of Directors and General Meetings.
+   as requested for the Board of Directors Meetings and General Meetings.
 
    The Secretary shall be responsible for special mailings as required by
    the President.
@@ -456,7 +456,7 @@ MMMMMMMMM DD, YYYY
    on behalf of the club shall be passed to the Secretary.
 
    The Treasurer shall submit an activity report to the Board of Directors
-   as requested for Board of Directors and General Meetings.
+   as requested for Board of Directors Meetings and General Meetings.
 
    The Treasurer shall receive and disburse club monies.
 
@@ -483,11 +483,11 @@ MMMMMMMMM DD, YYYY
 
    Oral nominations are to be made from the floor. A seconder is required.
    Before closing nominations, the Chair shall inquire if there are any
-   further nominations, and if there is no response, the nominations are closed. The
-   candidate must be present and agree with the nomination either at the
-   meeting of nomination or at the meeting where elections take place. If the
-   candidate is not present at either meeting, he or she may only be nominated
-   using a written nomination.
+   further nominations, and if there is no response, the nominations for that
+   office are closed. The candidate must be present and agree with the
+   nomination either at the meeting of nomination or at the meeting where
+   elections take place. If the candidate is not present at either meeting,
+   he or she may only be nominated using a written nomination.
 
    Written nominations may be submitted in writing to the secretary prior to
    the Meeting. Such nominations must be signed by two nominators in good
@@ -511,20 +511,17 @@ MMMMMMMMM DD, YYYY
    Chair) present at the meeting. If there are not two Board of Directors
    members present, the Chair shall appoint impartial vote counters.
 
+   For all elected positions only one officer shall be chosen.
+
    In the event of a tie for first place between two or more candidates, a
    run-off ballot will be held between the tied candidates only. If the
    candidates remain tied after the second ballot then the election for that
    position will be postponed until the next General Meeting of the club
    unless one candidate agrees to step down.
 
-   For all elected positions only one officer shall be chosen.
-
 7.3. The Appointed Directors
 
-   Directors shall be appointed by the President and approved via majority
-   vote by the Board of Directors.
-
-   The Board of Directors shall consist of:
+   The Board of Directors may consist of:
 
      Director of Demos and Reviews, Director of Special Events, Director
      of Communications, Disk of the Month Director, Software Librarian,
@@ -532,17 +529,12 @@ MMMMMMMMM DD, YYYY
 
 7.3.1. Terms, Duties and Responsibilities of the Board of Directors
 
-   The term of office for the Board of Directors shall be indefinite.
+   The term of office shall be indefinite.
 
 7.3.1.1. Director of Demos and Reviews
 
    The Director of Demos and Reviews shall write a review of each demo for
    the Club newsletter, or shall delegate the job.
-
-   The Director of Demos and Reviews shall be responsible for returning or
-   selling any demonstrated software, according to the wishes of the vendor.
-   If the item is sold, the Director of Demos and Reviews must see that the
-   vendor is paid.
 
    The Director of Demos and Reviews shall chair the demo and review portion
    of each General Meeting.
@@ -550,6 +542,11 @@ MMMMMMMMM DD, YYYY
    The Director of Demos and Reviews shall maintain all software received by
    club from vendors for demonstration, as well as all demonstrations and
    reviews, or shall delegate the job.
+
+   The Director of Demos and Reviews shall be responsible for returning or
+   selling any demonstrated software, according to the wishes of the vendor.
+   If the item is sold, the Director of Demos and Reviews must see that the
+   vendor is paid.
 
 7.3.1.2. Director of Special Events
 
@@ -586,7 +583,7 @@ MMMMMMMMM DD, YYYY
    The Software Librarian shall maintain all software and documentation
    received by club from vendors and other sources, and keep up to date all
    records of that software and documentation. These records shall be made
-   available to the community.
+   available to the community upon request.
 
 7.3.1.6. Club Newsletter Editor
 
