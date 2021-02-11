@@ -90,45 +90,46 @@ MMMMMMMMM DD, YYYY
 
 4.2. Membership Dues
 
-   Each Contributing Member may pay annual dues in the amount set by the Board
-   of Directors and published in the Bylaws. Dues are non-refundable.
+   Each Contributing Member shall pay annual dues in the amount set by the Board
+   of Directors. Dues may be paid at any time during the year and provide 12 
+   months of Contributing Member privileges. Dues are non-refundable.
 
    The initial dues shall be as follows: $15.00 US per year for Contributing
    Members.
 
    Membership dues for the following year can be changed at any meeting of the
-   Board of Directors with a majority vote. Dues cannot be changed with less
+   Board of Directors via a majority vote. Dues cannot be changed with less
    than one month's notice to the membership via the club newsletter or a
-   special mailing.
-
-   Notice of dues shall be published in the club newsletter within 30 days of
-   the date dues must be remitted.
+   special communication.
 
 4.3. Membership suspension and cancellation
 
-   A member whose membership is cancelled cannot again become a member of the
-   club, and may not attend any club functions.
+   In rare instances, the Board of Directors may consider disciplinary action
+   against a member.  Causes for such consideration would be:
 
-   A member whose membership is suspended is still a member of the club, but
-   for a period of time as determined by the Board of Directors may not attend
-   any club functions.
+     Software piracy
 
-   Any member who is suspended by the Board of Directors as a disciplinary
-   action is deemed to be not in good standing. However, such a suspended
-   member will receive the club newsletter and any relevant correspondence.
-
-   Reasons for membership suspension or cancellation
-
-     Piracy
      Copyright or patent infringement
-     Abuse of club property, club members, or any BBS
-     Theft
-     Conduct deemed sufficiently inappropriate by the Board of Directors.
 
-   A membership may be cancelled only by a majority vote at a Board of
-   Directors meeting. The member is entitled to present a defense at this
-   Board of Directors meeting and should be notified 30 days prior to said
-   meeting.
+     Abuse of club property, club members, or any BBS
+    
+     Theft
+
+     Conduct deemed sufficiently inappropriate by the Board of Directors
+   
+   The responses available to the Board of Directors include membership
+   suspension (for a period of 12 months or less) or cancellation. A membership
+   may be suspended or cancelled only via a majority vote at a Board of
+   Director's meeting. The member is entitled to present a defense at this
+   meeting and must be notified 30 days prior to said meeting.
+   
+   A suspended member remains a member of the club and will continue to
+   receive the club newsletter and any relevant correspondence, but the member
+   is deemed to not be in good standing and may not attend any club functions
+   for the duration of the suspension period.
+   
+   A member whose membership is cancelled cannot again become a member of the
+   club and may not attend any club functions.
 
 5. Executive Officers
 
