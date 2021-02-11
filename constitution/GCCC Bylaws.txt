@@ -358,9 +358,6 @@ MMMMMMMMM DD, YYYY
 
 7.2.1.1. President
 
-   The term of office for the President shall be one (1) year. This is an
-   elected position.
-
    The President shall be responsible to the members of the club for the
    actions of all officers, in accordance with all applicable laws and
    regulations, and in accordance with the provisions of the Constitution
@@ -390,21 +387,14 @@ MMMMMMMMM DD, YYYY
    ensure that they carry out their duties properly. The Board of Directors
    shall be informed of any problems that may arise.
 
-   The President may, as appropriate, appoint members in good standing the
-   following officers of the Board of Directors, said appointments being
-   approved by the Board of Directors by a majority vote:
-
-   Director of Demos and Reviews, Director of Special Events, Director of
-   Communications, Disk of the Month Director, Software Librarian, Sergeant
-   at Arms, and Club Newsletter Editor.
+   The President may, as appropriate, appoint members in good standing as
+   Directors, said appointments being approved by the Board of Directors by a
+   majority vote.
 
    The President will act as a good-will ambassador in relations with vendors
    and other clubs.
 
 7.2.1.2. Vice President
-
-   The term of office for the Vice President shall be one (1) year. This is
-   an elected position.
 
    In the event that the position of President becomes vacant, the
    Vice President shall assume the position of President until the
@@ -414,9 +404,6 @@ MMMMMMMMM DD, YYYY
    Vice President on behalf of the club shall be passed to the Secretary.
 
 7.2.1.3. Secretary
-
-   The term of office for the Secretary shall be one (1) year. This is an
-   elected position.
 
    The Secretary shall maintain a record of the minutes from all meetings of
    the club and shall submit these minutes to the Newsletter Editor for
@@ -455,9 +442,6 @@ MMMMMMMMM DD, YYYY
 
 7.2.1.4. Treasurer
 
-   The term of office for the Treasurer shall be one (1) year. This is an
-   elected position.
-
    The Treasurer must be of legal age, must be known to be of responsible
    nature, and must be available to the President by accepted communication
    methods.
@@ -485,8 +469,8 @@ MMMMMMMMM DD, YYYY
 
 7.2.2.1. Eligibility
 
-     Any General Member in good standing who is at least 21 years of age may
-     run for any elected position.
+   Any General Member in good standing who is at least 21 years of age may
+   run for any elected position.
 
 7.2.2.2. Nominations
 
@@ -537,6 +521,9 @@ MMMMMMMMM DD, YYYY
 
 7.3. The Appointed Directors
 
+   Directors shall be appointed by the President and approved via majority
+   vote by the Board of Directors.
+
    The Board of Directors shall consist of:
 
      Director of Demos and Reviews, Director of Special Events, Director
@@ -545,94 +532,76 @@ MMMMMMMMM DD, YYYY
 
 7.3.1. Terms, Duties and Responsibilities of the Board of Directors
 
-  The term of office for the Board of Directors shall be infinite.
+   The term of office for the Board of Directors shall be indefinite.
 
 7.3.1.1. Director of Demos and Reviews
 
-     The term of office for the Director of Demos and Reviews shall be
-     indefinite. This is an appointed position.
+   The Director of Demos and Reviews shall write a review of each demo for
+   the Club newsletter, or shall delegate the job.
 
-     The Director of Demos and Reviews shall write a review of each demo for
-     the Club newsletter, or shall delegate the job.
+   The Director of Demos and Reviews shall be responsible for returning or
+   selling any demonstrated software, according to the wishes of the vendor.
+   If the item is sold, the Director of Demos and Reviews must see that the
+   vendor is paid.
 
-     The Director of Demos and Reviews shall be responsible for returning or
-     selling any demonstrated software, according to the wishes of the vendor.
-     If the item is sold, the Director of Demos and Reviews must see that the
-     vendor is paid.
+   The Director of Demos and Reviews shall chair the demo and review portion
+   of each General Meeting.
 
-     The Director of Demos and Reviews shall chair the demo and review portion
-     of each General Meeting.
-
-     The Director of Demos and Reviews shall maintain all software received by
-     club from vendors for demonstration, as well as all demonstrations and
-     reviews, or shall delegate the job.
+   The Director of Demos and Reviews shall maintain all software received by
+   club from vendors for demonstration, as well as all demonstrations and
+   reviews, or shall delegate the job.
 
 7.3.1.2. Director of Special Events
 
-     The term of office for the Director of Special Events shall be indefinite.
-     This is an appointed position.
+   The Director of Special Events is in charge of all club special events,
+   including but not limited to the annual club picnic and Chicago
+   CoCoFEST!.
 
-     The Director of Special Events is in charge of all club special events,
-     including but not limited to the annual club picnic and Chicago
-     CoCoFEST!.
+   The Director of Special Events is responsible for handling or delegating
+   any special promotions.
 
-     The Director of Special Events is responsible for handling or delegating
-     any special promotions.
-
-     The Director of Special Events will coordinate with other members of the
-     Board of Directors, as appropriate; to ensure that special events stay on
-     schedule.
+   The Director of Special Events will coordinate with other members of the
+   Board of Directors, as appropriate; to ensure that special events stay on
+   schedule.
 
 7.3.1.3. Director of Communications
 
-     The term of office for the Director of Communications shall be indefinite.
-     This is an appointed position.
+   The Director of Communications shall maintain an official Glenside Web
+   Site as defined in Article VIII Section 2 supporting the CoCo and club.
 
-     The Director of Communications shall maintain an official Glenside Web
-     Site as defined in Article VIII Section 2 supporting the CoCo and club.
-
-     The Director of Communications shall maintain a list of known members
-     supporting the CoCo.
+   The Director of Communications shall maintain a list of known members
+   supporting the CoCo.
 
 7.3.1.4. Disk of the Month Director
 
-     The term of office for the Disk of the Month Director shall be indefinite.
-     This is an appointed position.
+   The Disk of the Month Director is responsible for distributing the Disk
+   of the Month disks, and may delegate duplication of the Disk of the Month
+   disks.
 
-     The Disk of the Month Director is responsible for distributing the Disk
-     of the Month disks, and may delegate duplication of the Disk of the Month
-     disks.
-
-     The Disk of the Month Director is not responsible for collecting Disk of
-     the Month dues; this is the duty of the Treasurer.
+   The Disk of the Month Director is not responsible for collecting Disk of
+   the Month dues; this is the duty of the Treasurer.
 
 7.3.1.5. Software Librarian
 
-     The term of office for the Software Librarian shall be indefinite.
-     This is an appointed position.
-
-     The Software Librarian shall maintain all software and documentation
-     received by club from vendors and other sources, and keep up to date all
-     records of that software and documentation. These records shall be made
-     available to the community.
+   The Software Librarian shall maintain all software and documentation
+   received by club from vendors and other sources, and keep up to date all
+   records of that software and documentation. These records shall be made
+   available to the community.
 
 7.3.1.6. Club Newsletter Editor
 
-     The term of office for the Club Newsletter Editor shall be indefinite.
-     This is an appointed position.
+   The Editor is responsible for the layout and content of the club
+   newsletter. The Editor is also responsible for duplicating the newsletter
+   and for setting the schedule for the newsletter.
 
-     The Editor is responsible for the layout and content of the club
-     newsletter. The Editor is also responsible for duplicating the newsletter
-     and for setting the schedule for the newsletter.
+   The Editor will coordinate with the President to ensure that the
+   newsletter remains on schedule and meets the club requirements.
 
-     The Editor will coordinate with the President to ensure that the
-     newsletter remains on schedule and meets the club requirements.
+   The Editor shall submit an activity report to the Board of Directors as
+   requested for Board of Directors and General Meetings.
 
-     The Editor shall submit an activity report to the Board of Directors as
-     requested for Board of Directors and General Meetings.
-
-     The Editor shall keep copies of all club newsletters to be passed to the
-     next newsletter editor.
+   The Editor shall keep copies of all club newsletters to be passed to the
+   next newsletter editor.
 
 8. Financial
 
