@@ -80,8 +80,6 @@ MMMMMMMMM DD, YYYY
 
      Contributing Membership
 
-     Honorary Membership
-
    General Membership is open to anyone in the Community.
 
    Contributing Members in good standing are entitled to one vote at General
@@ -90,21 +88,7 @@ MMMMMMMMM DD, YYYY
    A Contributing Member shall be deemed to be in good standing upon payment
    of the annual Membership dues of the club.
 
-4.2. Honorary Membership
-
-   The Board of Directors may nominate as Honorary Members individuals deemed
-   by the Board to be worthy. An Honorary Membership shall be ratified by a
-   simple majority of the quorum at any General Meeting.
-
-   Honorary Members have all rights and privileges of General Members.
-
-   An Honorary Membership term is for the lifetime of the club, unless
-   dismissed as discussed in Article VII.
-
-   All Members are entitled to a copy of each issue of the published
-   periodical.
-
-4.3. Membership Dues
+4.2. Membership Dues
 
    Each Contributing Member may pay annual dues in the amount set by the Board
    of Directors and published in the Bylaws. Dues are non-refundable.
@@ -120,7 +104,7 @@ MMMMMMMMM DD, YYYY
    Notice of dues shall be published in the club newsletter within 30 days of
    the date dues must be remitted.
 
-4.4. Membership suspension and cancellation
+4.3. Membership suspension and cancellation
 
    A member whose membership is cancelled cannot again become a member of the
    club, and may not attend any club functions.
