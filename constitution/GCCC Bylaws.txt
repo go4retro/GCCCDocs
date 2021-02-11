@@ -72,7 +72,7 @@ MMMMMMMMM DD, YYYY
 
 4. Membership
 
-4.1. Membership Caegories
+4.1. Membership Categories
 
    The membership of the club shall consist of the following categories:
 
@@ -131,7 +131,139 @@ MMMMMMMMM DD, YYYY
    A member whose membership is cancelled cannot again become a member of the
    club and may not attend any club functions.
 
-5. Executive Officers
+5. General Membership Meetings
+
+5.1. General
+
+   Meetings shall be held monthly on a date designated by the Board of
+   Directors. Physical meetings should be held and shall be held at a
+   location within the greater Chicago Metropolitan area as announced at a
+   previous General Meeting and either in the newsletter or a special
+   communication. Meetings should also support virtual participation.
+   Meeting times may vary at the discretion of the President or Board of
+   Directors.
+   
+   All meetings shall have a Chair to conduct the meeting. In order of
+   priority, the Chair shall be:
+
+     The President, the Vice President, or a member of the Board of Directors
+     appointed by the President or a member of the Board of Directors if the
+     President is not present.
+
+   All meetings shall have minutes taken and passed to the Secretary. In
+   order of priority, the minutes shall be taken by:
+
+     The Secretary; or any regular member appointed by the Chair if the
+     Secretary is not present.
+
+   All meetings should be conducted in accordance with parliamentary
+   procedure as interpreted by the Chair. Parliamentary procedure need not
+   be followed rigorously; the intent is for club Meetings to be impartial
+   and structured without getting bogged down in procedure. The Chair has
+   final say in all decisions.
+
+   Members may bring to club meetings friends and/or family members. However,
+   young children must be supervised by the Member who brings them.
+
+5.2. Responsibilities of the Chair
+
+   Control of any meeting of the club rests with the Chair. The Chair should:
+
+     Be familiar with the Constitution and Bylaws of the club, as well as
+     the duties of the chair;
+
+     Know, and follow, the order of business for the conduct of the meeting;
+
+     Conduct the meeting in accordance with parliamentary procedure as
+     described in Section 1 of Article IX;
+
+     Ensure that each member has an opportunity to express his or her views
+     but is not allowed to abuse this right.
+
+   The Chair may delegate his or her authority when necessary.
+
+5.3. Order of Business
+
+     Meetings may be conducted in the following order:
+
+       Call to order by the Chair once the presence of a quorum has been
+       determined by the Chair. Failing the presence of a quorum, the fact
+       shall be noted.
+
+       Any reports from members of the executive.
+
+       Any old business.
+
+       Any new business.
+
+       Adjournment.
+
+       Demo(s).
+
+     If a motion is presented which Members or the Chair feel requires study,
+     the Chair may table the motion. A motion that remains tabled without
+     discussion for more than six months is considered to have failed.
+
+5.4. Making a Motion
+
+     A motion is a proposal that the club take action, or that it express
+     itself as holding certain opinions. A motion may be made by any regular
+     Member of the club in good standing. Motions do not need to be delivered
+     in writing except as specified in the Bylaws; however, it is suggested
+     that motions of major importance be written for clarity and accuracy.
+
+     A motion must be seconded before it may be considered.
+
+     In most instances, a motion will be proposed, seconded, discussed, and
+     voted on without any further complications. However this isn't always the
+     case. The following actions may occur during discussion; if any occur,
+     they must be voted on before a vote on the original motion may occur.
+
+       An amendment to the original motion,
+
+       A motion to table the original motion,
+
+       A motion to refer the original motion for further study.
+
+     No motion is in order that conflicts with the avowed object or purpose
+     of the club, or concerns a subject over which the club has no
+     jurisdiction.
+
+     When a motion has been made, the Chair must consider it to determine
+     whether it is in order.
+
+5.5. Debating a Motion
+
+     Unless ruled out of order by the Chair, a motion made and seconded is
+     stated to the meeting and becomes a subject for discussion and decision.
+
+     When moved, seconded and stated to the meeting, a motion cannot be
+     withdrawn or ignored except as noted below. The motion can be resolved
+     only in the following manner:
+
+       The original mover asks for permission from the meeting members to
+       have the motion withdrawn.
+
+       No other member can ask to have a motion withdrawn; or
+
+       The motion is tabled; or
+
+       The motion is resolved by vote.
+
+5.6. Voting
+
+     A motion is decided by majority vote of Members present at the General
+     Meeting, except as specified in Article 1, Section 3.
+
+     Voting may be done by the use of ballots or a show of hands.
+
+     Members cannot be compelled to vote on a motion, however, they should be
+     encouraged to do so.
+
+     The Chair of the meeting shall not normally vote, except in the event of a
+     tie. This will help to preserve the impartiality of the Chair.
+
+6. Executive Officers
 
    The elected officers shall consist of:
 
@@ -147,9 +279,9 @@ MMMMMMMMM DD, YYYY
    
    The term of office for the Board of Directors shall be infinite.
 
-5.1. Terms, Duties and Responsibilities of club officers
+6.1. Terms, Duties and Responsibilities of club officers
 
-5.1.1. President:
+6.1.1. President:
 
      The term of office for the President shall be one (1) year. This is an
      elected position.
@@ -194,7 +326,7 @@ MMMMMMMMM DD, YYYY
      The President will act as a good-will ambassador in relations with vendors
      and other clubs.
 
-5.1.2. Vice President:
+6.1.2. Vice President:
 
      The term of office for the Vice President shall be one (1) year. This is
      an elected position.
@@ -206,7 +338,7 @@ MMMMMMMMM DD, YYYY
      A copy of all relevant correspondence received or sent by the
      Vice President on behalf of the club shall be passed to the Secretary.
 
-5.1.3. Secretary:
+6.1.3. Secretary:
 
      The term of office for the Secretary shall be one (1) year. This is an
      elected position.
@@ -246,7 +378,7 @@ MMMMMMMMM DD, YYYY
      Constitution and other important records such as meeting minutes in a
      zipper attaché case. This case will be transferred to the next secretary.
 
-5.1.4. Treasurer:
+6.1.4. Treasurer:
 
      The term of office for the Treasurer shall be one (1) year. This is an
      elected position.
@@ -274,7 +406,7 @@ MMMMMMMMM DD, YYYY
      zipper attaché case. This attaché case will be transferred to the next
      Treasurer.
 
-5.1.5. Director of Demos and Reviews:
+6.1.5. Director of Demos and Reviews:
 
      The term of office for the Director of Demos and Reviews shall be
      indefinite. This is an appointed position.
@@ -294,7 +426,7 @@ MMMMMMMMM DD, YYYY
      club from vendors for demonstration, as well as all demonstrations and
      reviews, or shall delegate the job.
 
-5.1.6. Director of Special Events:
+6.1.6. Director of Special Events:
 
      The term of office for the Director of Special Events shall be indefinite.
      This is an appointed position.
@@ -310,7 +442,7 @@ MMMMMMMMM DD, YYYY
      Board of Directors, as appropriate; to ensure that special events stay on
      schedule.
 
-5.1.7. Director of Communications:
+6.1.7. Director of Communications:
 
      The term of office for the Director of Communications shall be indefinite.
      This is an appointed position.
@@ -321,7 +453,7 @@ MMMMMMMMM DD, YYYY
      The Director of Communications shall maintain a list of known members
      supporting the CoCo.
 
-5.1.8. Disk of the Month Director:
+6.1.8. Disk of the Month Director:
 
      The term of office for the Disk of the Month Director shall be indefinite.
      This is an appointed position.
@@ -333,7 +465,7 @@ MMMMMMMMM DD, YYYY
      The Disk of the Month Director is not responsible for collecting Disk of
      the Month dues; this is the duty of the Treasurer.
 
-5.1.9. Software Librarian:
+6.1.9. Software Librarian:
 
      The term of office for the Software Librarian shall be indefinite.
      This is an appointed position.
@@ -343,7 +475,7 @@ MMMMMMMMM DD, YYYY
      records of that software and documentation. These records shall be made
      available to the community.
 
-5.1.10. Club Newsletter Editor:
+6.1.10. Club Newsletter Editor:
 
      The term of office for the Club Newsletter Editor shall be indefinite.
      This is an appointed position.
@@ -361,7 +493,7 @@ MMMMMMMMM DD, YYYY
      The Editor shall keep copies of all club newsletters to be passed to the
      next newsletter editor.
 
-5.2. Terms, Duties and Responsibilities of the Board of Directors:
+6.2. Terms, Duties and Responsibilities of the Board of Directors:
 
    The Purpose of the Board of Directors shall be to oversee the general
    operations of the club, and to set policy. The officers are responsible
@@ -394,14 +526,14 @@ MMMMMMMMM DD, YYYY
    term, a replacement shall be chosen by the Board of Directors. This
    appointment will last until the next General Election.
 
-5.3. Elections
+6.3. Elections
 
-5.3.1. Eligibility:
+6.3.1. Eligibility:
 
      Any General Member in good standing who is at least 21 years of age may
      run for any elected position.
 
-5.3.2. Nominations:
+6.3.2. Nominations:
 
    The date and location of the General Meeting of the club at which the
    election will be held will be published in the periodical at least one
@@ -422,7 +554,7 @@ MMMMMMMMM DD, YYYY
    the Meeting. Such nominations must be signed by two nominators in good
    standing, and the candidate if the candidate is not present at the Meeting.
 
-5.3.3. Procedure
+6.3.3. Procedure
 
    Nominations shall take place each year in or about the month of September
    at a General Meeting. The voting shall take place the following month,
@@ -448,9 +580,9 @@ MMMMMMMMM DD, YYYY
 
    For all elected positions only one officer shall be chosen.
 
-6. Financial
+7. Financial
 
-6.1. Financial Operations
+7.1. Financial Operations
 
      The Treasurer shall be the chief financial officer for the club, and
      shall ensure, at all times, that the financial affairs of the club are
@@ -461,12 +593,12 @@ MMMMMMMMM DD, YYYY
      financial status of the club and all financial dealings carried out on
      behalf of the club.
 
-6.1.1. Group Funds
+7.1.1. Group Funds
 
      All funds belonging to the club shall be kept in separate bank accounts,
      and shall never be merged with bank accounts of any club officer.
 
-6.1.2. The club General Operations fund shall be organized as follows:
+7.1.2. The club General Operations fund shall be organized as follows:
 
      The club General Operations fund shall be used by the club officers for
      the day-to-day operations of the club.
@@ -502,9 +634,9 @@ MMMMMMMMM DD, YYYY
      be reimbursed for expenses directly related to club operations or club
      activities.
 
-7. Periodical Publication
+8. Periodical Publication
 
-7.1. General
+8.1. General
 
      The official periodical of the club shall be known as "CoCo~123". Its
      purpose is to communicate to members of the club items of interest to the
@@ -518,7 +650,7 @@ MMMMMMMMM DD, YYYY
      Commercial advertising may be accepted, but shall not influence the
      editorial content of the periodical.
 
-7.2. Operation:
+8.2. Operation:
 
      The Newsletter shall be published on a regular basis, with the frequency
      to be determined by the Board of Directors. The President may determine
@@ -536,7 +668,7 @@ MMMMMMMMM DD, YYYY
      guidelines detailed in Article V. Financial operations of the periodical
      shall be conducted in accordance with the Constitution and Bylaws.
 
-7.3. Editorial Content
+8.3. Editorial Content
 
      The Newsletter shall publish, in the next issue, any editorial material
      that is provided to it by the Board of Directors, the Secretary, the
@@ -548,7 +680,7 @@ MMMMMMMMM DD, YYYY
 
      Editorial material shall not conflict with the stated purpose of the club.
 
-7.4. Articles
+8.4. Articles
 
      The Newsletter may publish articles submitted to the Newsletter Editor as
      space allows, however the purpose of the club should be kept in mind.
@@ -556,9 +688,9 @@ MMMMMMMMM DD, YYYY
      Articles intended for publication in the periodical may be subject to
      review and approval by the Board of Directors.
 
-8. Software Library
+9. Software Library
 
-8.1. General
+9.1. General
 
      The purpose of the software library is to provide a source of quality
      software to the members of the club.
@@ -566,7 +698,7 @@ MMMMMMMMM DD, YYYY
      The software library shall be governed under the copyright laws of the
      United States of America.
 
-8.2. Operation
+9.2. Operation
 
      The club Software Library will be for the use and benefit of members only.
 
@@ -581,9 +713,9 @@ MMMMMMMMM DD, YYYY
      mailing expenses, but may not otherwise charge for access to the club
      Library.
 
-9. BBSs and Web Sites
+10. BBSs and Web Sites
 
-9.1. General
+10.1. General
 
    Official Glenside BBSs and Web Sites may be established by the club 
    membership providing the following rules are met:
@@ -628,138 +760,6 @@ MMMMMMMMM DD, YYYY
 
    Each system operator must police his or her BBS or Web Site, including
    defining a code of conduct.
-
-10. Conduct of General Meetings
-
-10.1. General
-
-   Meetings shall be held monthly on a date designated by the Board of
-   Directors. Physical meetings should be held and shall be held at a
-   location within the greater Chicago Metropolitan area as announced at a
-   previous General Meeting and either in the newsletter or a special
-   communication. Meetings should also support virtual participation.
-   Meeting times may vary at the discretion of the President or Board of
-   Directors.
-   
-   All meetings shall have a Chair to conduct the meeting. In order of
-   priority, the Chair shall be:
-
-     The President, the Vice President, or a member of the Board of Directors
-     appointed by the President or a member of the Board of Directors if the
-     President is not present.
-
-   All meetings shall have minutes taken and passed to the Secretary. In
-   order of priority, the minutes shall be taken by:
-
-     The Secretary; or any regular member appointed by the Chair if the
-     Secretary is not present.
-
-   All meetings should be conducted in accordance with parliamentary
-   procedure as interpreted by the Chair. Parliamentary procedure need not
-   be followed rigorously; the intent is for club Meetings to be impartial
-   and structured without getting bogged down in procedure. The Chair has
-   final say in all decisions.
-
-   Members may bring to club meetings friends and/or family members. However,
-   young children must be supervised by the Member who brings them.
-
-10.2. Responsibilities of the Chair
-
-   Control of any meeting of the club rests with the Chair. The Chair should:
-
-     Be familiar with the Constitution and Bylaws of the club, as well as
-     the duties of the chair;
-
-     Know, and follow, the order of business for the conduct of the meeting;
-
-     Conduct the meeting in accordance with parliamentary procedure as
-     described in Section 1 of Article IX;
-
-     Ensure that each member has an opportunity to express his or her views
-     but is not allowed to abuse this right.
-
-   The Chair may delegate his or her authority when necessary.
-
-10.3. Order of Business
-
-     Meetings may be conducted in the following order:
-
-       Call to order by the Chair once the presence of a quorum has been
-       determined by the Chair. Failing the presence of a quorum, the fact
-       shall be noted.
-
-       Any reports from members of the executive.
-
-       Any old business.
-
-       Any new business.
-
-       Adjournment.
-
-       Demo(s).
-
-     If a motion is presented which Members or the Chair feel requires study,
-     the Chair may table the motion. A motion that remains tabled without
-     discussion for more than six months is considered to have failed.
-
-10.4. Making a Motion
-
-     A motion is a proposal that the club take action, or that it express
-     itself as holding certain opinions. A motion may be made by any regular
-     Member of the club in good standing. Motions do not need to be delivered
-     in writing except as specified in the Bylaws; however, it is suggested
-     that motions of major importance be written for clarity and accuracy.
-
-     A motion must be seconded before it may be considered.
-
-     In most instances, a motion will be proposed, seconded, discussed, and
-     voted on without any further complications. However this isn't always the
-     case. The following actions may occur during discussion; if any occur,
-     they must be voted on before a vote on the original motion may occur.
-
-       An amendment to the original motion,
-
-       A motion to table the original motion,
-
-       A motion to refer the original motion for further study.
-
-     No motion is in order that conflicts with the avowed object or purpose
-     of the club, or concerns a subject over which the club has no
-     jurisdiction.
-
-     When a motion has been made, the Chair must consider it to determine
-     whether it is in order.
-
-10.5. Debating a Motion
-
-     Unless ruled out of order by the Chair, a motion made and seconded is
-     stated to the meeting and becomes a subject for discussion and decision.
-
-     When moved, seconded and stated to the meeting, a motion cannot be
-     withdrawn or ignored except as noted below. The motion can be resolved
-     only in the following manner:
-
-       The original mover asks for permission from the meeting members to
-       have the motion withdrawn.
-
-       No other member can ask to have a motion withdrawn; or
-
-       The motion is tabled; or
-
-       The motion is resolved by vote.
-
-10.6. Voting
-
-     A motion is decided by majority vote of Members present at the General
-     Meeting, except as specified in Article 1, Section 3.
-
-     Voting may be done by the use of ballots or a show of hands.
-
-     Members cannot be compelled to vote on a motion, however, they should be
-     encouraged to do so.
-
-     The Chair of the meeting shall not normally vote, except in the event of a
-     tie. This will help to preserve the impartiality of the Chair.
 
 11. BOARD OF DIRECTORS Meetings
 
