@@ -13,7 +13,7 @@ MMMMMMMMM DD, YYYY
    The term "quorum" shall mean the required number and composition of
    members present at a meeting to make the meeting valid, as follows:
 
-     For General Meetings of the GCCC, the Chair as defined in Article VIII,
+     For General Meetings of the club, the Chair as defined in Article VIII,
      Section 1, at least two members of the Board of Directors, and such
      General Members as are present (at least 3), shall constitute a quorum.
 
@@ -22,7 +22,7 @@ MMMMMMMMM DD, YYYY
 
    The term "majority" in regards to voting shall mean:
 
-     For all meetings of the GCCC, greater than 50% (fifty percent) of the
+     For all meetings of the club, greater than 50% (fifty percent) of the
      members of the quorum that have voted, unless otherwise specified.
 
    The corporate publication shall hereafter be referred to as the club
@@ -41,14 +41,14 @@ MMMMMMMMM DD, YYYY
 
    A motion to amend the Constitution shall be signed by the member making the 
    motion and by at least two seconders, both of whom shall be Contributing Members 
-   of the GCCC in good standing.
+   of the club in good standing.
 
    Upon receipt of a motion to amend the Constitution, the Secretary shall cause to 
    be published in the Newsletter a copy of the motion, and cause a copy of the 
    motion to be delivered to each member of the Board of Directors.
 
    Any motion to amend the Constitution shall be dealt with at the General Meeting 
-   of the GCCC following delivery of the periodical in which the motion to amend is 
+   of the club following delivery of the periodical in which the motion to amend is 
    published. At such meeting, the motion may be passed as delivered, amended, or 
    tabled. No further notice need be given before the consideration of any 
    amendment to the motion.
@@ -59,7 +59,7 @@ MMMMMMMMM DD, YYYY
    for more than six months without discussion shall be considered to have failed.
 
    No amendment to the Constitution shall be effective unless it is passed by a 
-   two-thirds majority vote of the quorum at a General Meeting of the GCCC. 
+   two-thirds majority vote of the quorum at a General Meeting of the club. 
 
    The Bylaws passed pursuant to this Constitution may be amended by a simple 
    majority vote of the quorum at a General Meeting and no notice need be given of 
@@ -74,7 +74,7 @@ MMMMMMMMM DD, YYYY
 
 4.1. Membership Caegories
 
-   The membership of the GCCC shall consist of the following categories:
+   The membership of the club shall consist of the following categories:
 
      General Membership
 
@@ -85,10 +85,10 @@ MMMMMMMMM DD, YYYY
    General Membership is open to anyone in the Community.
 
    Contributing Members in good standing are entitled to one vote at General
-   Meetings of the GCCC.
+   Meetings of the club.
 
    A Contributing Member shall be deemed to be in good standing upon payment
-   of the annual Membership dues of the GCCC.
+   of the annual Membership dues of the club.
 
 4.2. Honorary Membership
 
@@ -98,7 +98,7 @@ MMMMMMMMM DD, YYYY
 
    Honorary Members have all rights and privileges of General Members.
 
-   An Honorary Membership term is for the lifetime of the GCCC, unless
+   An Honorary Membership term is for the lifetime of the club, unless
    dismissed as discussed in Article VII.
 
    All Members are entitled to a copy of each issue of the published
@@ -123,11 +123,11 @@ MMMMMMMMM DD, YYYY
 4.4. Membership suspension and cancellation
 
    A member whose membership is cancelled cannot again become a member of the
-   GCCC, and may not attend any GCCC functions.
+   club, and may not attend any club functions.
 
-   A member whose membership is suspended is still a member of the GCCC, but
+   A member whose membership is suspended is still a member of the club, but
    for a period of time as determined by the Board of Directors may not attend
-   any GCCC functions.
+   any club functions.
 
    Any member who is suspended by the Board of Directors as a disciplinary
    action is deemed to be not in good standing. However, such a suspended
@@ -169,7 +169,7 @@ MMMMMMMMM DD, YYYY
      The term of office for the President shall be one (1) year. This is an
      elected position.
 
-     The President shall be responsible to the members of the GCCC for the
+     The President shall be responsible to the members of the club for the
      actions of all officers, in accordance with all applicable laws and
      regulations, and in accordance with the provisions of the Constitution
      and Bylaws.
@@ -178,7 +178,7 @@ MMMMMMMMM DD, YYYY
      Section 1 of this Constitution.
 
      A copy of all relevant correspondence received or sent by the President
-     on behalf of the GCCC shall be passed to the Secretary.
+     on behalf of the club shall be passed to the Secretary.
 
      The President shall schedule all meetings of the Board of Directors.
 
@@ -192,7 +192,7 @@ MMMMMMMMM DD, YYYY
 
      The President shall prepare for each issue of the periodical a report of
      the activities of the executive and report on any meetings or events
-     sponsored or supported by the GCCC.
+     sponsored or supported by the club.
 
      The President shall supervise members of the appointed offices and shall
      ensure that they carry out their duties properly. The Board of Directors
@@ -219,7 +219,7 @@ MMMMMMMMM DD, YYYY
      next General Meeting.
 
      A copy of all relevant correspondence received or sent by the
-     Vice President on behalf of the GCCC shall be passed to the Secretary.
+     Vice President on behalf of the club shall be passed to the Secretary.
 
 5.1.3. Secretary:
 
@@ -227,16 +227,16 @@ MMMMMMMMM DD, YYYY
      elected position.
 
      The Secretary shall maintain a record of the minutes from all meetings of
-     the GCCC and shall submit these minutes to the Newsletter Editor for
+     the club and shall submit these minutes to the Newsletter Editor for
      publication.
 
      The Secretary shall be responsible for coordinating the day-to-day
-     correspondence of the GCCC and maintaining a copy of this correspondence.
+     correspondence of the club and maintaining a copy of this correspondence.
 
      The Secretary shall be responsible for retaining the current membership
-     list of the GCCC.
+     list of the club.
 
-     The Secretary shall be the Registered Agent for the GCCC for the duration
+     The Secretary shall be the Registered Agent for the club for the duration
      of the term.
 
      The Secretary shall assume the duties of the President in the event that
@@ -249,7 +249,7 @@ MMMMMMMMM DD, YYYY
      The Secretary shall assist the President as required.
 
      The Secretary shall coordinate with the President and Treasurer to
-     produce the necessary year-end financial records for the GCCC.
+     produce the necessary year-end financial records for the club.
 
      The Secretary shall submit an activity report to the Board of Directors
      as requested for the Board of Directors and General Meetings.
@@ -271,13 +271,13 @@ MMMMMMMMM DD, YYYY
      methods.
 
      The Treasurer shall be responsible for maintaining the financial records
-     of the GCCC.
+     of the club.
 
      The Treasurer shall ensure that a financial statement is prepared
      annually for publication in the periodical.
 
      A copy of all relevant correspondence received or sent by the Treasurer
-     on behalf of the GCCC shall be passed to the Secretary.
+     on behalf of the club shall be passed to the Secretary.
 
      The Treasurer shall submit an activity report to the Board of Directors
      as requested for Board of Directors and General Meetings.
@@ -306,7 +306,7 @@ MMMMMMMMM DD, YYYY
      of each General Meeting.
 
      The Director of Demos and Reviews shall maintain all software received by
-     GCCC from vendors for demonstration, as well as all demonstrations and
+     club from vendors for demonstration, as well as all demonstrations and
      reviews, or shall delegate the job.
 
 5.1.6. Director of Special Events:
@@ -314,8 +314,8 @@ MMMMMMMMM DD, YYYY
      The term of office for the Director of Special Events shall be indefinite.
      This is an appointed position.
 
-     The Director of Special Events is in charge of all GCCC special events,
-     including but not limited to the annual GCCC club picnic and Chicago
+     The Director of Special Events is in charge of all club special events,
+     including but not limited to the annual club picnic and Chicago
      CoCoFEST!.
 
      The Director of Special Events is responsible for handling or delegating
@@ -331,7 +331,7 @@ MMMMMMMMM DD, YYYY
      This is an appointed position.
 
      The Director of Communications shall maintain an official Glenside Web
-     Site as defined in Article VIII Section 2 supporting the CoCo and GCCC.
+     Site as defined in Article VIII Section 2 supporting the CoCo and club.
 
      The Director of Communications shall maintain a list of known members
      supporting the CoCo.
@@ -354,7 +354,7 @@ MMMMMMMMM DD, YYYY
      This is an appointed position.
 
      The Software Librarian shall maintain all software and documentation
-     received by GCCC from vendors and other sources, and keep up to date all
+     received by club from vendors and other sources, and keep up to date all
      records of that software and documentation. These records shall be made
      available to the community.
 
@@ -379,7 +379,7 @@ MMMMMMMMM DD, YYYY
 5.2. Terms, Duties and Responsibilities of the Board of Directors:
 
    The Purpose of the Board of Directors shall be to oversee the general
-   operations of the GCCC, and to set policy. The officers are responsible
+   operations of the club, and to set policy. The officers are responsible
    for day-to-day operations, not the Board of Directors.
 
    The Board of Directors shall review all appointed positions annually and at
@@ -388,15 +388,15 @@ MMMMMMMMM DD, YYYY
    nominations must be approved by a majority vote at a Board of Directors
    meeting.
 
-   The Board of Directors shall authorize all expenditures by the GCCC except
+   The Board of Directors shall authorize all expenditures by the club except
    as otherwise noted in the Constitution or Bylaws.
 
    The Board of Directors may, at its discretion, support financially or by
    other means, the activities of other groups that promote personal computers
-   in accordance with the stated purpose of the GCCC.
+   in accordance with the stated purpose of the club.
 
    The Board of Directors may contract for the use of facilities and services
-   as it sees fit to further the stated purposes of the GCCC.
+   as it sees fit to further the stated purposes of the club.
 
    Board of Directors decisions are made by majority vote at a Board of
    Directors meeting. The Chair may, if necessary, cast a tie-breaking vote.
@@ -418,7 +418,7 @@ MMMMMMMMM DD, YYYY
 
 5.3.2. Nominations:
 
-   The date and location of the General Meeting of the GCCC at which the
+   The date and location of the General Meeting of the club at which the
    election will be held will be published in the periodical at least one
    month in advance.
 
@@ -447,7 +447,7 @@ MMMMMMMMM DD, YYYY
    be declared elected by acclamation.
 
    All elections shall be conducted by secret ballot of the members in good
-   standing present at the General Meeting of the GCCC. The individual acting
+   standing present at the General Meeting of the club. The individual acting
    as secretary for the meeting shall read off the names nominated for each
    position, and the vote taken.
 
@@ -458,7 +458,7 @@ MMMMMMMMM DD, YYYY
    In the event of a tie for first place between two or more candidates, a
    run-off ballot will be held between the tied candidates only. If the
    candidates remain tied after the second ballot then the election for that
-   position will be postponed until the next General Meeting of the GCCC
+   position will be postponed until the next General Meeting of the club
    unless one candidate agrees to step down.
 
    For all elected positions only one officer shall be chosen.
@@ -467,26 +467,26 @@ MMMMMMMMM DD, YYYY
 
 6.1. Financial Operations
 
-     The Treasurer shall be the chief financial officer for the GCCC, and
-     shall ensure, at all times, that the financial affairs of the GCCC are
+     The Treasurer shall be the chief financial officer for the club, and
+     shall ensure, at all times, that the financial affairs of the club are
      run in a business-like fashion and in strict accordance with all rules
-     governing the financial operations of the GCCC.
+     governing the financial operations of the club.
 
      The Treasurer shall ensure that the Board of Directors is aware of the
-     financial status of the GCCC and all financial dealings carried out on
-     behalf of the GCCC.
+     financial status of the club and all financial dealings carried out on
+     behalf of the club.
 
 6.1.1. Group Funds
 
-     All funds belonging to the GCCC shall be kept in separate bank accounts,
+     All funds belonging to the club shall be kept in separate bank accounts,
      and shall never be merged with bank accounts of any club officer.
 
-6.1.2. The GCCC General Operations fund shall be organized as follows:
+6.1.2. The club General Operations fund shall be organized as follows:
 
-     The GCCC General Operations fund shall be used by the GCCC officers for
-     the day-to-day operations of the GCCC.
+     The club General Operations fund shall be used by the club officers for
+     the day-to-day operations of the club.
 
-     All monies received by the GCCC shall be deposited to this account.
+     All monies received by the club shall be deposited to this account.
 
      Signing authority for this fund shall be maintained by the Treasurer.
      Alternate signing authority may be appointed by the Board of Directors.
@@ -521,9 +521,9 @@ MMMMMMMMM DD, YYYY
 
 7.1. General
 
-     The official periodical of the GCCC shall be known as "CoCo~123". Its
-     purpose is to communicate to members of the GCCC items of interest to the
-     Community, including future GCCC General Meeting dates, times, and
+     The official periodical of the club shall be known as "CoCo~123". Its
+     purpose is to communicate to members of the club items of interest to the
+     Community, including future club General Meeting dates, times, and
      locations.
 
      The periodical is not a magazine, and should endeavor to avoid being seen
@@ -561,12 +561,12 @@ MMMMMMMMM DD, YYYY
      subject to review and approval by the Board of Directors or the President
      if no Board of Directors meeting is scheduled.
 
-     Editorial material shall not conflict with the stated purpose of the GCCC.
+     Editorial material shall not conflict with the stated purpose of the club.
 
 7.4. Articles
 
      The Newsletter may publish articles submitted to the Newsletter Editor as
-     space allows, however the purpose of the GCCC should be kept in mind.
+     space allows, however the purpose of the club should be kept in mind.
 
      Articles intended for publication in the periodical may be subject to
      review and approval by the Board of Directors.
@@ -576,14 +576,14 @@ MMMMMMMMM DD, YYYY
 8.1. General
 
      The purpose of the software library is to provide a source of quality
-     software to the members of the GCCC.
+     software to the members of the club.
 
      The software library shall be governed under the copyright laws of the
      United States of America.
 
 8.2. Operation
 
-     The GCCC Software Library will be for the use and benefit of members only.
+     The club Software Library will be for the use and benefit of members only.
 
      With approval of the Board of Directors, the Disk of the Month Director
      may appoint a Software Librarian, otherwise the Disk of the Month
@@ -593,20 +593,20 @@ MMMMMMMMM DD, YYYY
      periodical at no charge.
 
      The Software Librarian may charge members for reasonable duplication and
-     mailing expenses, but may not otherwise charge for access to the GCCC
+     mailing expenses, but may not otherwise charge for access to the club
      Library.
 
 9. BBSs and Web Sites
 
 9.1. General
 
-   Official Glenside BBSs and Web Sites may be established by the GCCC
+   Official Glenside BBSs and Web Sites may be established by the club 
    membership providing the following rules are met:
 
      The Board of Directors must approve all Official Glenside BBSs and Web
      Sites.
 
-     The name of an official GCCC BBS and Web Sites must include the word
+     The name of an official club BBS and Web Sites must include the word
      Glenside on the log-in screen.
 
      At no time will the BBS and Web Sites or its operators knowingly
@@ -620,14 +620,14 @@ MMMMMMMMM DD, YYYY
      that position by the Board of Directors and a new Member will be found to
      fill the position.
 
-     GCCC members may not be charged for access to the BBS or Web Site,
+     club members may not be charged for access to the BBS or Web Site,
      Glenside bulletins, internal mail, or internal databases, but may be
      charged for special services such as Internet mail or Usenet news.
      
-     Meeting announcements and other GCCC activities must be posted for all
+     Meeting announcements and other club activities must be posted for all
      callers to read after establishing their accounts and passwords.
 
-   Other Glenside BBSs or Web Site may be established by the GCCC membership
+   Other Glenside BBSs or Web Site may be established by the club membership
    providing the following rules are met:
 
      At no time will the BBS and Web Site or its operator knowingly distribute
@@ -637,7 +637,7 @@ MMMMMMMMM DD, YYYY
      distributing copyrighted material illegally, that system shall be dropped
      as a Glenside BBS.
 
-   The GCCC may provide cash support to the system operators of official
+   The club may provide cash support to the system operators of official
    Glenside BBSs or Web Sites. The amount cannot exceed $50.00 per year per
    system operator.
 
@@ -674,18 +674,18 @@ MMMMMMMMM DD, YYYY
 
      All meetings should be conducted in accordance with parliamentary
      procedure as interpreted by the Chair. Parliamentary procedure need not
-     be followed rigorously; the intent is for GCCC Meetings to be impartial
+     be followed rigorously; the intent is for club Meetings to be impartial
      and structured without getting bogged down in procedure. The Chair has
      final say in all decisions.
 
-     Members may bring to GCCC Meetings friends and/or family members. However,
+     Members may bring to club Meetings friends and/or family members. However,
      young children must be supervised by the Member who brings them.
 
 10.2. Responsibilities of the Chair
 
-     Control of any meeting of the GCCC rests with the Chair. The Chair should:
+     Control of any meeting of the club rests with the Chair. The Chair should:
 
-       Be familiar with the Constitution and Bylaws of the GCCC, as well as
+       Be familiar with the Constitution and Bylaws of the club, as well as
        the duties of the chair;
 
        Know, and follow, the order of business for the conduct of the meeting;
@@ -720,9 +720,9 @@ MMMMMMMMM DD, YYYY
 
 10.4. Making a Motion
 
-     A motion is a proposal that the GCCC take action, or that it express
+     A motion is a proposal that the club take action, or that it express
      itself as holding certain opinions. A motion may be made by any regular
-     Member of the GCCC in good standing. Motions do not need to be delivered
+     Member of the club in good standing. Motions do not need to be delivered
      in writing except as specified in the Bylaws; however, it is suggested
      that motions of major importance be written for clarity and accuracy.
 
@@ -740,7 +740,7 @@ MMMMMMMMM DD, YYYY
        A motion to refer the original motion for further study.
 
      No motion is in order that conflicts with the avowed object or purpose
-     of the GCCC, or concerns a subject over which the GCCC has no
+     of the club, or concerns a subject over which the club has no
      jurisdiction.
 
      When a motion has been made, the Chair must consider it to determine
