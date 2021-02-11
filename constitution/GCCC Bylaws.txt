@@ -263,7 +263,55 @@ MMMMMMMMM DD, YYYY
      The Chair of the meeting shall not normally vote, except in the event of a
      tie. This will help to preserve the impartiality of the Chair.
 
-6. Executive Officers
+6. Board of Directors Meetings
+
+6.1. General
+
+     Meetings shall be held on an as-needed basis, but must be held at least
+     quarterly. Meeting time and place shall be designated by the President.
+
+     No actions shall be taken by the Board of Directors unless a quorum is
+     assembled.
+
+     Board of Directors meetings shall be held informally, and need not
+     follow strict parliamentary procedure.
+
+     All meetings shall have minutes taken and passed to the Secretary, as
+     specified in Article IX, Section 1.
+
+     Only Board of Directors members may attend Board of Directors meetings,
+     except as specified in the Bylaws, or by invitation of any Board of
+     Directors member.
+
+6.2. Special Board of Directors Meetings
+
+     If the President deems immediate action necessary, a Special Board of
+     Directors meeting may be called. If it is possible to resolve the issue
+     at a regular Board of Directors meeting, a Special Board of Directors
+     meeting is inappropriate.
+
+     A Special Board of Directors Meeting may be conducted using:
+
+       Telephone conference call; Electronic conference
+
+       Decisions made at Special Board of Directors meetings are subject to
+       review at following regular Board of Directors meetings.
+
+       Minutes are not necessary, but a record of decisions made must be kept.
+
+6.3. Voting
+
+     A motion is decided by majority vote of Board of Directors members. All
+     Board of Directors members get one vote.
+
+     The President may cast a tie-breaking vote when necessary.
+
+     If the President is not present and there is a tie, the Vice President
+     may cast a tie-breaking vote.
+
+     Board of Directors members not present may have their vote cast by proxy.
+
+7. Executive Officers
 
    The elected officers shall consist of:
 
@@ -279,9 +327,9 @@ MMMMMMMMM DD, YYYY
    
    The term of office for the Board of Directors shall be infinite.
 
-6.1. Terms, Duties and Responsibilities of club officers
+7.1. Terms, Duties and Responsibilities of club officers
 
-6.1.1. President:
+7.1.1. President:
 
      The term of office for the President shall be one (1) year. This is an
      elected position.
@@ -326,7 +374,7 @@ MMMMMMMMM DD, YYYY
      The President will act as a good-will ambassador in relations with vendors
      and other clubs.
 
-6.1.2. Vice President:
+7.1.2. Vice President:
 
      The term of office for the Vice President shall be one (1) year. This is
      an elected position.
@@ -338,7 +386,7 @@ MMMMMMMMM DD, YYYY
      A copy of all relevant correspondence received or sent by the
      Vice President on behalf of the club shall be passed to the Secretary.
 
-6.1.3. Secretary:
+7.1.3. Secretary:
 
      The term of office for the Secretary shall be one (1) year. This is an
      elected position.
@@ -378,7 +426,7 @@ MMMMMMMMM DD, YYYY
      Constitution and other important records such as meeting minutes in a
      zipper attaché case. This case will be transferred to the next secretary.
 
-6.1.4. Treasurer:
+7.1.4. Treasurer:
 
      The term of office for the Treasurer shall be one (1) year. This is an
      elected position.
@@ -406,7 +454,7 @@ MMMMMMMMM DD, YYYY
      zipper attaché case. This attaché case will be transferred to the next
      Treasurer.
 
-6.1.5. Director of Demos and Reviews:
+7.1.5. Director of Demos and Reviews:
 
      The term of office for the Director of Demos and Reviews shall be
      indefinite. This is an appointed position.
@@ -426,7 +474,7 @@ MMMMMMMMM DD, YYYY
      club from vendors for demonstration, as well as all demonstrations and
      reviews, or shall delegate the job.
 
-6.1.6. Director of Special Events:
+7.1.6. Director of Special Events:
 
      The term of office for the Director of Special Events shall be indefinite.
      This is an appointed position.
@@ -442,7 +490,7 @@ MMMMMMMMM DD, YYYY
      Board of Directors, as appropriate; to ensure that special events stay on
      schedule.
 
-6.1.7. Director of Communications:
+7.1.7. Director of Communications:
 
      The term of office for the Director of Communications shall be indefinite.
      This is an appointed position.
@@ -453,7 +501,7 @@ MMMMMMMMM DD, YYYY
      The Director of Communications shall maintain a list of known members
      supporting the CoCo.
 
-6.1.8. Disk of the Month Director:
+7.1.8. Disk of the Month Director:
 
      The term of office for the Disk of the Month Director shall be indefinite.
      This is an appointed position.
@@ -465,7 +513,7 @@ MMMMMMMMM DD, YYYY
      The Disk of the Month Director is not responsible for collecting Disk of
      the Month dues; this is the duty of the Treasurer.
 
-6.1.9. Software Librarian:
+7.1.9. Software Librarian:
 
      The term of office for the Software Librarian shall be indefinite.
      This is an appointed position.
@@ -475,7 +523,7 @@ MMMMMMMMM DD, YYYY
      records of that software and documentation. These records shall be made
      available to the community.
 
-6.1.10. Club Newsletter Editor:
+7.1.10. Club Newsletter Editor:
 
      The term of office for the Club Newsletter Editor shall be indefinite.
      This is an appointed position.
@@ -493,7 +541,7 @@ MMMMMMMMM DD, YYYY
      The Editor shall keep copies of all club newsletters to be passed to the
      next newsletter editor.
 
-6.2. Terms, Duties and Responsibilities of the Board of Directors:
+7.2. Terms, Duties and Responsibilities of the Board of Directors:
 
    The Purpose of the Board of Directors shall be to oversee the general
    operations of the club, and to set policy. The officers are responsible
@@ -526,14 +574,14 @@ MMMMMMMMM DD, YYYY
    term, a replacement shall be chosen by the Board of Directors. This
    appointment will last until the next General Election.
 
-6.3. Elections
+7.3. Elections
 
-6.3.1. Eligibility:
+7.3.1. Eligibility:
 
      Any General Member in good standing who is at least 21 years of age may
      run for any elected position.
 
-6.3.2. Nominations:
+7.3.2. Nominations:
 
    The date and location of the General Meeting of the club at which the
    election will be held will be published in the periodical at least one
@@ -554,7 +602,7 @@ MMMMMMMMM DD, YYYY
    the Meeting. Such nominations must be signed by two nominators in good
    standing, and the candidate if the candidate is not present at the Meeting.
 
-6.3.3. Procedure
+7.3.3. Procedure
 
    Nominations shall take place each year in or about the month of September
    at a General Meeting. The voting shall take place the following month,
@@ -580,9 +628,9 @@ MMMMMMMMM DD, YYYY
 
    For all elected positions only one officer shall be chosen.
 
-7. Financial
+8. Financial
 
-7.1. Financial Operations
+8.1. Financial Operations
 
      The Treasurer shall be the chief financial officer for the club, and
      shall ensure, at all times, that the financial affairs of the club are
@@ -593,12 +641,12 @@ MMMMMMMMM DD, YYYY
      financial status of the club and all financial dealings carried out on
      behalf of the club.
 
-7.1.1. Group Funds
+8.1.1. Group Funds
 
      All funds belonging to the club shall be kept in separate bank accounts,
      and shall never be merged with bank accounts of any club officer.
 
-7.1.2. The club General Operations fund shall be organized as follows:
+8.1.2. The club General Operations fund shall be organized as follows:
 
      The club General Operations fund shall be used by the club officers for
      the day-to-day operations of the club.
@@ -634,9 +682,9 @@ MMMMMMMMM DD, YYYY
      be reimbursed for expenses directly related to club operations or club
      activities.
 
-8. Periodical Publication
+9. Periodical Publication
 
-8.1. General
+9.1. General
 
      The official periodical of the club shall be known as "CoCo~123". Its
      purpose is to communicate to members of the club items of interest to the
@@ -650,7 +698,7 @@ MMMMMMMMM DD, YYYY
      Commercial advertising may be accepted, but shall not influence the
      editorial content of the periodical.
 
-8.2. Operation:
+9.2. Operation:
 
      The Newsletter shall be published on a regular basis, with the frequency
      to be determined by the Board of Directors. The President may determine
@@ -668,7 +716,7 @@ MMMMMMMMM DD, YYYY
      guidelines detailed in Article V. Financial operations of the periodical
      shall be conducted in accordance with the Constitution and Bylaws.
 
-8.3. Editorial Content
+9.3. Editorial Content
 
      The Newsletter shall publish, in the next issue, any editorial material
      that is provided to it by the Board of Directors, the Secretary, the
@@ -680,7 +728,7 @@ MMMMMMMMM DD, YYYY
 
      Editorial material shall not conflict with the stated purpose of the club.
 
-8.4. Articles
+9.4. Articles
 
      The Newsletter may publish articles submitted to the Newsletter Editor as
      space allows, however the purpose of the club should be kept in mind.
@@ -688,9 +736,9 @@ MMMMMMMMM DD, YYYY
      Articles intended for publication in the periodical may be subject to
      review and approval by the Board of Directors.
 
-9. Software Library
+10. Software Library
 
-9.1. General
+10.1. General
 
      The purpose of the software library is to provide a source of quality
      software to the members of the club.
@@ -698,7 +746,7 @@ MMMMMMMMM DD, YYYY
      The software library shall be governed under the copyright laws of the
      United States of America.
 
-9.2. Operation
+10.2. Operation
 
      The club Software Library will be for the use and benefit of members only.
 
@@ -713,9 +761,9 @@ MMMMMMMMM DD, YYYY
      mailing expenses, but may not otherwise charge for access to the club
      Library.
 
-10. BBSs and Web Sites
+11. BBSs and Web Sites
 
-10.1. General
+11.1. General
 
    Official Glenside BBSs and Web Sites may be established by the club 
    membership providing the following rules are met:
@@ -760,52 +808,4 @@ MMMMMMMMM DD, YYYY
 
    Each system operator must police his or her BBS or Web Site, including
    defining a code of conduct.
-
-11. BOARD OF DIRECTORS Meetings
-
-11.1. General
-
-     Meetings shall be held on an as-needed basis, but must be held at least
-     quarterly. Meetings time and place are designated by the President.
-
-     No actions shall be taken by the Board of Directors unless a quorum is
-     assembled.
-
-     Board of Directors meetings shall be held informally, and need not
-     follow strict parliamentary procedure.
-
-     All meetings shall have minutes taken and passed to the Secretary, as
-     specified in Article IX, Section 1.
-
-     Only Board of Directors members may attend Board of Directors meetings,
-     except as specified in the Bylaws, or by invitation of any Board of
-     Directors member.
-
-11.2. Special Board of Directors Meetings
-
-     If the President deems immediate action necessary, a Special Board of
-     Directors meeting may be called. If it is possible to resolve the issue
-     at a regular Board of Directors meeting, a Special Board of Directors
-     meeting is inappropriate.
-
-     A Special Board of Directors Meeting may be conducted using:
-
-       Telephone conference call; Electronic conference
-
-       Decisions made at Special Board of Directors meetings are subject to
-       review at following regular Board of Directors meetings.
-
-       Minutes are not necessary, but a record of decisions made must be kept.
-
-11.3. Voting
-
-     A motion is decided by majority vote of Board of Directors members. All
-     Board of Directors members get one vote.
-
-     The President may cast a tie-breaking vote when necessary.
-
-     If the President is not present and there is a tie, the Vice President
-     may cast a tie-breaking vote.
-
-     Board of Directors members not present may have their vote cast by proxy.
 
